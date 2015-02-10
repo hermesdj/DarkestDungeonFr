@@ -1,6 +1,8 @@
 # DarkestDungeonFr
 Github officiel de la traduction de [The Darkest Dungeon](http://steamcommunity.com/app/262060).
 
+![Illustration de la Traduction](http://www.grif-touch.com/wp-content/uploads/2015/02/Darkest-Dungeon.jpg)
+
 ## Équipe
 [Griff-Touch](http://www.grif-touch.com/7529/traduction-darkest-dungeon-en-francaise/) centralise le travail sur la traduction et présente l'avancement du travail réalisé.
 
@@ -67,6 +69,13 @@ Suivez les étapes suivantes :
 2. Contacter l'administrateur de ce GitHub, [HermesDj](https://github.com/hermesdj) pour demander à faire partie des contributeurs en motivant la demande.
 3. Une fois contributeur, Télécharger [GitHub For Windows ](https://windows.github.com/) si vous avez windows ou tout autre solution en fonction de votre plateforme
 4. Cloner le repository, effectuez vos modifications, commitez les changements et resynchronisez avec le repository central.
+
+## Quelques impressions écran
+![Profil de personnage](http://www.grif-touch.com/wp-content/uploads/2015/02/Darkest-Dungeon-Trad-FR-10.jpg)
+
+![Ecran de victoire](http://www.grif-touch.com/wp-content/uploads/2015/02/Darkest-Dungeon-Trad-FR-13.jpg)
+
+
 
 
 
