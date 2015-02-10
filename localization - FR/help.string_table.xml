@@ -13,7 +13,7 @@
     <entry id="tutorial_popup_supplies_title"><![CDATA[Provisions pour le Voyage]]></entry>
     <entry id="tutorial_popup_map_combat_skills_title"><![CDATA[Remap Combat Skills]]></entry>
     <entry id="tutorial_popup_map_camping_skills_title"><![CDATA[Remap Camping Skills]]></entry>
-    <entry id="tutorial_popup_camping_quest_title"><![CDATA[Bois de chauffage et Campement]]></entry>
+    <entry id="tutorial_popup_camping_quest_title"><![CDATA[Bosquet de chauffage et Campement]]></entry>
     <entry id="tutorial_popup_camping_title"><![CDATA[Les Benefices du Campement]]></entry>
     <entry id="tutorial_popup_stress_relief_title"><![CDATA[Soulagement du Stress]]></entry>
     <entry id="tutorial_popup_afflicted_title"><![CDATA[Afflige!]]></entry>
@@ -23,7 +23,7 @@
     <entry id="tutorial_popup_disarm_trap_title"><![CDATA[Desarmement de Pieges]]></entry>
     <entry id="tutorial_popup_using_doors_title"><![CDATA[Passer les Portes]]></entry>
     <entry id="tutorial_popup_stress_title"><![CDATA[Stress]]></entry>
-    <entry id="tutorial_popup_trinkets_title"><![CDATA[Bizarreries]]></entry>
+    <entry id="tutorial_popup_trinkets_title"><![CDATA[Psychologie]]></entry>
     <entry id="tutorial_popup_questparty_title"><![CDATA[Formation du Groupe]]></entry>
     <entry id="tutorial_popup_resolve_level_title"><![CDATA[Passage de Niveau de Resolution!]]></entry>
     <entry id="tutorial_popup_stage_coach_title"><![CDATA[La diligence est votre pourvoyeur de Heros]]></entry>
@@ -55,9 +55,9 @@ Si vous le souhaitez, vous pouver utiliser un anti-venin de votre inventaire pou
 Pour votre premiere quete, essayez d'amener au moins 8 de nourriture et 4 torches.]]></entry>
     <entry id="tutorial_popup_map_combat_skills_description"><![CDATA[Les Heros ne peuvent avoir que 4 compétences de combat active a un même moment. Changez les compétences pour voir comment le positionnement idéal de votre héro change!]]></entry>
     <entry id="tutorial_popup_map_camping_skills_description"><![CDATA[Les Héros ne peuvent pas avoir plus de 3 compétences de campement à un même moment. Basculez les competences en actif/inactif en cliquant dessus.]]></entry>
-    <entry id="tutorial_popup_camping_quest_description"><![CDATA[Cette Quête implique de camper, et camper requiert du bois de chauffage. Le Bois de chauffage vous est donné automatiquement sur les quêtes le requierant.
+    <entry id="tutorial_popup_camping_quest_description"><![CDATA[Cette Quête implique de camper, et camper requiert du Bosquet de chauffage. Le Bosquet de chauffage vous est donné automatiquement sur les quêtes le requierant.
 
-Camper donne aux Héros une chance de récuperer a l'interieur d'un Donjon. Lorsque vous etes blessés ou Stressés et desirez camper, faites [CLIC-DROIT] sur le bois de chauffage dans votre inventaire.]]></entry>
+Camper donne aux Héros une chance de récuperer a l'interieur d'un Donjon. Lorsque vous etes blessés ou Stressés et desirez camper, faites [CLIC-DROIT] sur le Bosquet de chauffage dans votre inventaire.]]></entry>
     <entry id="tutorial_popup_camping_description"><![CDATA[Le Campement consiste en deux phases : la phase repas et la phase compétences.
 
 Pendant la phase de repas, vous choisissez quelle quantité les héros mangent, ce qui determine leur récuperation. Soyez bien sûr d'avoir suffisamment de nourriture!
@@ -65,7 +65,7 @@ Pendant la phase de repas, vous choisissez quelle quantité les héros mangent, 
 La phase de compétence vous permet de dépenser des points de Repos sur différentes compétences de Héros utilisés pour la recuperation.]]></entry>
     <entry id="tutorial_popup_stress_relief_description"><![CDATA[Les Heros soulagent leur stress en prenant part a des activités dans la Taverne et l'Abbaye. Chaque activité a differents effets secondaires.
 
-Experimentez pour trouver ce qui va le mieux a chaque héro en fonction de leurs bizarreries!]]></entry>
+Experimentez pour trouver ce qui va le mieux a chaque héro en fonction de leur Psychologie!]]></entry>
     <entry id="tutorial_popup_afflicted_description"><![CDATA[Lorsque les héros ne peuvent plus supporter le Stress, ils deviennent Affligés. Cela se manifeste par différents comportements et changements de statistiques. Les Afflictions restent jusqu'à ce que vous envoyiez le hero au sanatorium pour qu'il reçoive un traitement, à moins que vous ne parveniez à reduire son stress à 0 pendant la quête.]]></entry>
     <entry id="tutorial_popup_virtued_description"><![CDATA[Parfois, vos Heros repondront aux assauts du stress en devenant Heroïques!
 
