@@ -75,7 +75,9 @@ Nous faire remonter le problème dans l'onglet [Issue](https://github.com/hermes
 
 
 ## Rejoindre l'équipe
+
 Suivez les étapes suivantes :
+
 1. Créer un compte sur GitHub si vous n'en avez pas.
 2. Contacter l'administrateur de ce GitHub, [HermesDj](https://github.com/hermesdj) pour demander à faire partie des contributeurs en motivant la demande.
 3. Une fois contributeur, Télécharger [GitHub For Windows ](https://windows.github.com/) si vous avez windows ou tout autre solution en fonction de votre plateforme
