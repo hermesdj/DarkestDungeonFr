@@ -40,27 +40,27 @@ Nous faire remonter le problème dans l'onglet [Issue](https://github.com/hermes
 
 ###Global :
 
-Traduction : **50%** - Validation **10%**
+Traduction : [ ] **50%** - [ ] Validation **10%**
 
 ###Par fichier :
 
-> activity_log.string_table - [ ] Traduction: **95%** - [ ] Vérification: *0%*
+activity_log.string_table - [ ] Traduction: **95%** - [ ] Vérification: *0%*
 
-> actor.string_table - [x] Traduction: **100%** - [ ] Vérification: *50%*
+actor.string_table - [x] Traduction: **100%** - [ ] Vérification: *50%*
 
-> curios.string_table - [ ] Traduction: **95%** - [ ] Vérification: *05%*
+curios.string_table - [ ] Traduction: **95%** - [ ] Vérification: *05%*
 
-> dialogue.string_table - [ ] Traduction: *5%* - [ ] Vérification: *0%*
+dialogue.string_table - [ ] Traduction: *5%* - [ ] Vérification: *0%*
 
-> help.string_table - [x] Traduction: **100%** - [ ] Vérification: *55%*
+help.string_table - [x] Traduction: **100%** - [ ] Vérification: *55%*
 
-> menu.string_table - [x] Traduction: **100%** - [x] Vérification: **100%**
+menu.string_table - [x] Traduction: **100%** - [x] Vérification: **100%**
 
-> miscellaneous.string_table - [ ] Traduction: **95%** - [ ] Vérification: *10%*
+miscellaneous.string_table - [ ] Traduction: **95%** - [ ] Vérification: *10%*
 
-> monsters.string_table - [ ] Traduction: **95%** - [ ] Vérification: *0%*
+monsters.string_table - [ ] Traduction: **95%** - [ ] Vérification: *0%*
 
-> names.string_table - [x] Traduction: **100%** - [x] Vérification: **100%** - Rq: Aucune Traduction Nécessaire
+names.string_table - [x] Traduction: **100%** - [x] Vérification: **100%** - Rq: Aucune Traduction Nécessaire
 
 
 ## Rejoindre l'équipe
