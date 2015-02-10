@@ -214,11 +214,11 @@
     <entry id="str_flagellation_activity_lock_story"><![CDATA[est devenu un avec la douleur et refuse d'arreter de se flageller.]]></entry>
     <entry id="" />
     <entry id="str_[activity]_add_trinket_story"><![CDATA[- [hero name][str_meditation_add_trinket_story][trinket name]]]></entry>
-    <entry id="str_gambling_add_trinket_story"><![CDATA[a parie et a gagne un bibelot:]]></entry>
+    <entry id="str_gambling_add_trinket_story"><![CDATA[a parie et a gagne un bijou:]]></entry>
     <entry id="" />
     <entry id="str_[activity]_remove_trinket_story"><![CDATA[- [hero name][str_meditation_remove_trinket_story][trinket name]]]></entry>
-    <entry id="str_bar_remove_trinket_story"><![CDATA[a perdu connaissance et a perdu un bibelot:]]></entry>
-    <entry id="str_gambling_remove_trinket_story"><![CDATA[a parie et perdu un bibelot:]]></entry>
+    <entry id="str_bar_remove_trinket_story"><![CDATA[a perdu connaissance et a perdu un bijou:]]></entry>
+    <entry id="str_gambling_remove_trinket_story"><![CDATA[a parie et perdu un bijou:]]></entry>
     <entry id="" />
     <entry id="building upgrading" />
     <entry id="str_building_unlocked_format"><![CDATA[%s debloque]]></entry>

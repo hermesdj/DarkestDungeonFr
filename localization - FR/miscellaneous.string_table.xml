@@ -1164,14 +1164,14 @@ Accroit grandement le Stress, les attaques des Monstres, le Loot et les Critique
     <entry id="str_user_information_not_enough_camping_points"><![CDATA[Pas assez de points de campement!]]></entry>
     <entry id="str_user_information_already_used_camping_skill"><![CDATA[Cette compétence a déjà étée utilisée!]]></entry>
     <entry id="str_user_information_cant_use_items_in_battle"><![CDATA[Ne peut pas utiliser des objets pendant un combat]]></entry>
-    <entry id="str_user_information_cant_unequip_trinket_in_battle"><![CDATA[Ne pas pas déséquiper un bibelot pendant un combat]]></entry>
+    <entry id="str_user_information_cant_unequip_trinket_in_battle"><![CDATA[Ne pas pas déséquiper un bijou pendant un combat]]></entry>
     <entry id="str_user_information_no_shovel"><![CDATA[Vous n'avez pas de Pelle !]]></entry>
     <entry id="str_user_information_not_enough_room"><![CDATA[Pas assez de place !]]></entry>
     <entry id="" />
     <entry id="not_enough_camping_points"><![CDATA[Pas assez de points de campement!]]></entry>
     <entry id="already_used_camping_skill"><![CDATA[Cette compétence a déjà etée utilisée!]]></entry>
     <entry id="cant_use_items_in_battle"><![CDATA[Ne peut pas utiliser des objets pendant un combat]]></entry>
-    <entry id="cant_unequip_trinket_in_battle"><![CDATA[Ne pas pas déséquiper un bibelot pendant un combat]]></entry>
+    <entry id="cant_unequip_trinket_in_battle"><![CDATA[Ne pas pas déséquiper un bijou pendant un combat]]></entry>
     <entry id="no_shovel"><![CDATA[Vous n'avez pas de Pelle !]]></entry>
     <entry id="not_enough_room"><![CDATA[Pas assez de place !]]></entry>
     <entry id="" />
@@ -1197,7 +1197,7 @@ Accroit grandement le Stress, les attaques des Monstres, le Loot et les Critique
     <entry id="town_name_nomad_wagon"><![CDATA[Chariot des Nomades]]></entry>
     <entry id="town_name_sanitarium"><![CDATA[Sanatorium]]></entry>
     <entry id="town_name_activity_log"><![CDATA[Journal d'Activites]]></entry>
-    <entry id="town_name_realm_inventory"><![CDATA[Inventaire des Bibelots]]></entry>
+    <entry id="town_name_realm_inventory"><![CDATA[Inventaire des bijoux]]></entry>
     <entry id="" />
     <entry id="town_progression_forward_provision"><![CDATA[Provisions]]></entry>
     <entry id="town_progression_forward_embark"><![CDATA[Embarquer]]></entry>
@@ -1812,7 +1812,7 @@ Accroit grandement le Stress, les attaques des Monstres, le Loot et les Critique
     <entry id="trinket_rarity_very_rare"><![CDATA[Ancestral]]></entry>
     <entry id="" />
     <entry id="Realm Inventory" />
-    <entry id="realm_inventory_full_info"><![CDATA[[SHIFT-CLICK] un bibelot pour le détruire]]></entry>
+    <entry id="realm_inventory_full_info"><![CDATA[[SHIFT-CLICK] un bijou pour le détruire]]></entry>
     <entry id="" />
     <entry id="Provision" />
     <entry id="provision_sell_back_info"><![CDATA[[CLICK] sur l'inventaire pour revendre]]></entry>
