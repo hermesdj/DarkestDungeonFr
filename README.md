@@ -23,7 +23,7 @@ Il faut avant tout trouver le dossier où se trouve le jeu Darkest Dungeon. Norm
 
 A l'intérieur se trouve un dossier "localization".
 
-1. Aller dans l'onglet [Release](https://github.com/hermesdj/DarkestDungeonFr/releases) du GitHub et téléchargez la Release correspondant au numéro de build du jeu (tel que visible à la page principale lorsque vous le lancez). Chaque release de la traduction porte le même numéro que le build du jeu auquel il correspond.
+1. Aller dans l'onglet [Release](https://github.com/hermesdj/DarkestDungeonFr/releases) (attention, pas de Release pour le moment. Sautez cette étape si vous avez un fichier zip avec les fichiers) du GitHub et téléchargez la Release correspondant au numéro de build du jeu (tel que visible à la page principale lorsque vous le lancez). Chaque release de la traduction porte le même numéro que le build du jeu auquel il correspond.
 2. Faire un backup de ce dossier en le copiant et en le renommant par exemple "localization - EN".
 3. remplacer le contenu du dossier avant copie "localization" par le contenu du dossier "localization - FR" et accepter de remplacer les fichiers quand Windows vous le demande.
 4. Lancer le jeu
