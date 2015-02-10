@@ -40,7 +40,8 @@ Nous faire remonter le problème dans l'onglet [Issue](https://github.com/hermes
 
 ###Global :
 
-Traduction : [ ] **50%** - [ ] Validation **10%**
+- [ ] Traduction: **50%**
+- [ ] Validation: **10%**
 
 ###Par fichier :
 
