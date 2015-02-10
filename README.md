@@ -60,7 +60,7 @@ Nous faire remonter le problème dans l'onglet [Issue](https://github.com/hermes
 - [ ] help.string_table
     - [x] Traduction: **100%**
     - [ ] Vérification: *55%*
-- [ ] menu.string_table
+- [x] menu.string_table
     - [x] Traduction: **100%**
     - [x] Vérification: **100%**
 - [ ] miscellaneous.string_table
@@ -69,7 +69,7 @@ Nous faire remonter le problème dans l'onglet [Issue](https://github.com/hermes
 - [ ] monsters.string_table
     - [ ] Traduction: **95%**
     - [ ] Vérification: *0%*
-- [ ] names.string_table - Rq: Aucune Traduction Nécessaire
+- [x] names.string_table - Rq: Aucune Traduction Nécessaire
     - [x] Traduction: **100%**
     - [x] Vérification: **100%**
 
