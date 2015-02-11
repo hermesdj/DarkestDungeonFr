@@ -662,7 +662,7 @@ Accroit grandement le Stress, les attaques des Monstres, le Loot et les Critique
     <entry id="str_inventory_title_supplyrope"><![CDATA[Corde]]></entry>
     <entry id="str_inventory_description_supplyrope"><![CDATA[Utilisee pour traverser les perils et securiser les objets.]]></entry>
     <entry id="str_inventory_title_supplyantivenom"><![CDATA[Antivenin]]></entry>
-    <entry id="str_inventory_description_supplyantivenom"><![CDATA[Utilise pour contrer la Corruption, les poisons et les toxines.]]></entry>
+    <entry id="str_inventory_description_supplyantivenom"><![CDATA[Utilisé pour contrer la Poison, les poisons et les toxines.]]></entry>
     <entry id="str_inventory_title_supplymedicinal_herbs"><![CDATA[Herbes Medicinales]]></entry>
     <entry id="str_inventory_description_supplymedicinal_herbs"><![CDATA[A utiliser pour soigner les maladies.]]></entry>
     <entry id="str_inventory_title_supplyskeleton_key"><![CDATA[Cle Squelette]]></entry>
@@ -1642,7 +1642,7 @@ Accroit grandement le Stress, les attaques des Monstres, le Loot et les Critique
     <entry id="Resistance" />
     <entry id="resistance_name_stun"><![CDATA[Etourdi]]></entry>
     <entry id="resistance_name_move"><![CDATA[Mouvement]]></entry>
-    <entry id="resistance_name_poison"><![CDATA[Corruption]]></entry>
+    <entry id="resistance_name_poison"><![CDATA[Poison]]></entry>
     <entry id="resistance_name_bleed"><![CDATA[Saignement]]></entry>
     <entry id="resistance_name_disease"><![CDATA[Maladie]]></entry>
     <entry id="resistance_name_debuff"><![CDATA[Affaibl.]]></entry>

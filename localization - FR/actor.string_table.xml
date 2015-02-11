@@ -22,12 +22,12 @@
     <entry id="buff_stat_tooltip_stress_heal_percent"><![CDATA[%+d%% Soin du Stress]]></entry>
     <entry id="buff_stat_tooltip_resistance_stun"><![CDATA[%+d%% Resist. Etourdissement]]></entry>
     <entry id="buff_stat_tooltip_resistance_move"><![CDATA[%+d%% Resist. au Deplacement]]></entry>
-    <entry id="buff_stat_tooltip_resistance_poison"><![CDATA[%+d%% Resist. a Corruption]]></entry>
+    <entry id="buff_stat_tooltip_resistance_poison"><![CDATA[%+d%% Resist. au Poison]]></entry>
     <entry id="buff_stat_tooltip_resistance_bleed"><![CDATA[%+d%% Resist. au Saignement]]></entry>
     <entry id="buff_stat_tooltip_resistance_disease"><![CDATA[%+d%% Resist. aux Maladies]]></entry>
     <entry id="buff_stat_tooltip_resistance_debuff"><![CDATA[%+d%% Resist. a l'Affaiblissement]]></entry>
     <entry id="buff_stat_tooltip_resistance_death_blow"><![CDATA[%+d%% Resist. aux Coups Mortels]]></entry>
-    <entry id="buff_stat_tooltip_poison_chance"><![CDATA[%+d%% chance d'infliger Corruption]]></entry>
+    <entry id="buff_stat_tooltip_poison_chance"><![CDATA[%+d%% chance d'infliger Poison]]></entry>
     <entry id="buff_stat_tooltip_bleed_chance"><![CDATA[%+d%% chance d'infliger Saignement]]></entry>
     <entry id="buff_stat_tooltip_stun_chance"><![CDATA[%+d%% chance d'etourdir]]></entry>
     <entry id="buff_stat_tooltip_debuff_chance"><![CDATA[%+d%% chance d'affaiblir]]></entry>
@@ -118,8 +118,8 @@
     <entry id="effect_tooltip_stress_heal_format"><![CDATA[Soin du Stress %+d]]></entry>
     <entry id="effect_tooltip_stun_format"><![CDATA[Chance d'etourdir: %d%%]]></entry>
     <entry id="effect_tooltip_tag"><![CDATA[Marquer Cible]]></entry>
-    <entry id="effect_tooltip_cure_format"><![CDATA[Chance de Soigner Corruption/Saignement %d%%]]></entry>
-    <entry id="effect_tooltip_dot_poison_format"><![CDATA[Corruption %d pts/tour pour %d tours]]></entry>
+    <entry id="effect_tooltip_cure_format"><![CDATA[Chance de Soigner Poison/Saignement %d%%]]></entry>
+    <entry id="effect_tooltip_dot_poison_format"><![CDATA[Poison %d pts/tour pour %d tours]]></entry>
     <entry id="effect_tooltip_dot_bleed_format"><![CDATA[Saignement %d pts/tour pour %d tours]]></entry>
     <entry id="effect_tooltip_torch_format"><![CDATA[Torche %+d]]></entry>
     <entry id="effect_tooltip_shuffle_party"><![CDATA[Melanger le Groupe]]></entry>
