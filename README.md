@@ -40,7 +40,7 @@ Nous faire remonter le problème dans l'onglet [Issue](https://github.com/hermes
 
 ###Global :
 
-- [ ] Traduction: **50%**
+- [ ] Traduction: **55%**
 - [ ] Validation: **10%**
 
 ###Par fichier :
@@ -55,7 +55,7 @@ Nous faire remonter le problème dans l'onglet [Issue](https://github.com/hermes
     - [ ] Traduction: **95%**
     - [ ] Vérification: *05%*
 - [ ] dialogue.string_table
-    - [ ] Traduction: *5%*
+    - [ ] Traduction: *8%*
     - [ ] Vérification: *0%*
 - [ ] help.string_table
     - [x] Traduction: **100%**
