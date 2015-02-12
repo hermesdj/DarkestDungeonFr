@@ -1884,7 +1884,7 @@ Accroit grandement le Stress, les attaques des Monstres, le Loot et les Critique
     <entry id="str_save_post_click"><![CDATA[Plus Sombre]]></entry>
     <entry id="" />
     <entry id="CURIO ANNOUNCEMENTS" />
-    <entry id="curio_announcement_purge_format"><![CDATA[%s Purge]]></entry>
+    <entry id="curio_announcement_purge_format"><![CDATA[%s Trait Retiré !]]></entry>
   </language>
   <language id="french">
     <entry id="" />
