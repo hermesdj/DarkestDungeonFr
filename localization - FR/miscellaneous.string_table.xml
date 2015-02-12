@@ -1582,11 +1582,11 @@ Accroit grandement le Stress, les attaques des Monstres, le Loot et les Critique
     <entry id="RAID RESULTS" />
     <entry id="raid_results_quest_result_was_completed"><![CDATA[Victoire]]></entry>
     <entry id="raid_results_quest_result_was_not_completed"><![CDATA[Défaite]]></entry>
-    <entry id="raid_results_quest_inventory_title"><![CDATA[Récompenses]]></entry>
-    <entry id="raid_results_party_gold_inventory_title"><![CDATA[Trésors Collectés]]></entry>
-    <entry id="raid_results_party_heirloom_inventory_title"><![CDATA[Héritages Collectés]]></entry>
-    <entry id="raid_results_hero_resolve_from_quest"><![CDATA[+%d XP de Résolution]]></entry>
-    <entry id="raid_results_new_quirks_title"><![CDATA[Nouveau trait psychologique:]]></entry>
+    <entry id="raid_results_quest_inventory_title"><![CDATA[Recompenses]]></entry>
+    <entry id="raid_results_party_gold_inventory_title"><![CDATA[Tresors Collectes]]></entry>
+    <entry id="raid_results_party_heirloom_inventory_title"><![CDATA[Heritages Collectes]]></entry>
+    <entry id="raid_results_hero_resolve_from_quest"><![CDATA[+%d XP]]></entry>
+    <entry id="raid_results_new_quirks_title"><![CDATA[Traits Psychologiques:]]></entry>
     <entry id="raid_results_progression_heroes"><![CDATA[Suivant]]></entry>
     <entry id="raid_results_progression_return_to_town"><![CDATA[Retour en Ville]]></entry>
     <entry id="" />
