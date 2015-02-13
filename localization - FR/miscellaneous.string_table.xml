@@ -31,7 +31,7 @@
     <entry id="str_ui_crittxt"><![CDATA[Critique!]]></entry>
     <entry id="str_ui_miss"><![CDATA[Rate!]]></entry>
     <entry id="str_ui_dodge"><![CDATA[Esquive!]]></entry>
-    <entry id="str_ui_poison"><![CDATA[Malediction]]></entry>
+    <entry id="str_ui_poison"><![CDATA[Poison]]></entry>
     <entry id="str_ui_bleed"><![CDATA[Saignement]]></entry>
     <entry id="str_ui_cured"><![CDATA[Soigne!]]></entry>
     <entry id="str_ui_cure_failed"><![CDATA[Soin Rate]]></entry>
@@ -42,10 +42,10 @@
     <entry id="str_ui_deathavoided"><![CDATA[Portes de la Mort!]]></entry>
     <entry id="str_ui_buff"><![CDATA[Augmentation!]]></entry>
     <entry id="str_ui_debuff"><![CDATA[Affaiblissement!]]></entry>
-    <entry id="str_ui_stun_resist"><![CDATA[Resist. a l'Etourdissement]]></entry>
-    <entry id="str_ui_blight_resist"><![CDATA[Resist. aux Maledictions]]></entry>
-    <entry id="str_ui_bleed_resist"><![CDATA[Resist. aux Saignements]]></entry>
-    <entry id="str_ui_debuff_resist"><![CDATA[Resist. a l'Affaiblissement]]></entry>
+    <entry id="str_ui_stun_resist"><![CDATA[Resist. vs l'Etourdi]]></entry>
+    <entry id="str_ui_blight_resist"><![CDATA[Resist. vs Poison]]></entry>
+    <entry id="str_ui_bleed_resist"><![CDATA[Resist. vs Saigner]]></entry>
+    <entry id="str_ui_debuff_resist"><![CDATA[Resist. vs l'Affaibl.]]></entry>
     <entry id="str_ui_hero_to_hit"><![CDATA[Chance de Toucher]]></entry>
     <entry id="str_ui_hero_crit"><![CDATA[Chance de Critique]]></entry>
     <entry id="str_ui_hero_dmg"><![CDATA[Degats]]></entry>
@@ -655,7 +655,7 @@ Accroit grandement le Stress, les attaques des Monstres, le Loot et les Critique
     <entry id="str_inventory_title_gemjade"><![CDATA[Jade]]></entry>
     <entry id="str_inventory_description_gemjade"><![CDATA[Gris terne comme la chair pourrisSanté.]]></entry>
     <entry id="" />
-    <entry id="str_inventory_title_supplyfirewood"><![CDATA[Bosquet de Chauffage]]></entry>
+    <entry id="str_inventory_title_supplyfirewood"><![CDATA[Bois de chauffage]]></entry>
     <entry id="str_inventory_description_supplyfirewood"><![CDATA[A utiliser pour camper. Soyez sur que vous avez suffisamment de Nourriture pour la phase du Repas ou vos Heros vont crier famine!]]></entry>
     <entry id="str_inventory_title_supplyshovel"><![CDATA[Pelle]]></entry>
     <entry id="str_inventory_description_supplyshovel"><![CDATA[Utilisee pour nettoyer les obstacles et fracturer dans des choses.]]></entry>
@@ -849,7 +849,7 @@ Accroit grandement le Stress, les attaques des Monstres, le Loot et les Critique
     <entry id="" />
     <entry id="combat_skill_name_occultist_bloodlet"><![CDATA[Poignard Sacrificiel]]></entry>
     <entry id="combat_skill_name_occultist_abyssal_artillery"><![CDATA[Artillerie des Abysses]]></entry>
-    <entry id="combat_skill_name_occultist_weakening_curse"><![CDATA[Malediction AffaiblisSanté]]></entry>
+    <entry id="combat_skill_name_occultist_weakening_curse"><![CDATA[Malediction Affaiblissante]]></entry>
     <entry id="combat_skill_name_occultist_wyrd_reconstruction"><![CDATA[Reconstruction Etrange]]></entry>
     <entry id="combat_skill_name_occultist_disruptive_curse"><![CDATA[Sortilege de Vulnerabilite]]></entry>
     <entry id="combat_skill_name_occultist_hands_from_abyss"><![CDATA[Mains venues des Abysses]]></entry>
@@ -857,7 +857,7 @@ Accroit grandement le Stress, les attaques des Monstres, le Loot et les Critique
     <entry id="combat_skill_name_occultist_move"><![CDATA[Mouvement]]></entry>
     <entry id="upgrade_tree_name_occultist.bloodlet"><![CDATA[Poignard Sacrificiel]]></entry>
     <entry id="upgrade_tree_name_occultist.abyssal_artillery"><![CDATA[Artillerie des Abysses]]></entry>
-    <entry id="upgrade_tree_name_occultist.weakening_curse"><![CDATA[Malediction AffaiblisSanté]]></entry>
+    <entry id="upgrade_tree_name_occultist.weakening_curse"><![CDATA[Malediction Affaiblissante]]></entry>
     <entry id="upgrade_tree_name_occultist.wyrd_reconstruction"><![CDATA[Reconstruction Etrange]]></entry>
     <entry id="upgrade_tree_name_occultist.disruptive_curse"><![CDATA[Sortilege de Vulnerabilite]]></entry>
     <entry id="upgrade_tree_name_occultist.hands_from_abyss"><![CDATA[Mains venues des Abysses]]></entry>
@@ -1402,7 +1402,7 @@ Accroit grandement le Stress, les attaques des Monstres, le Loot et les Critique
     <entry id="str_hero_dismiss_confirm_no"><![CDATA[Non]]></entry>
     <entry id="" />
     <entry id="str_hero_slot_unlocked_stagecoach_tt"><![CDATA[Glissez un Héro sur la Réserve pour le recruter]]></entry>
-    <entry id="str_roster_list_full"><![CDATA[Réserve Pleine]]></entry>
+    <entry id="str_roster_list_full"><![CDATA[Reserve Pleine]]></entry>
     <entry id="" />
     <entry id="HERO CLASS NAMES" />
     <entry id="hero_class_name_crusader"><![CDATA[Templier]]></entry>

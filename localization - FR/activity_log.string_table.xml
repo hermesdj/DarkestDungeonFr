@@ -403,13 +403,13 @@
     <entry id="str_death_attack_monster"><![CDATA[a ete tue par un vil]]></entry>
     <entry id="str_death_attack_monster"><![CDATA[ont rencontre leur fin face a ]]></entry>
     <entry id="str_death_bleed_monster"><![CDATA[a saigne jusqu'a la mort.]]></entry>
-    <entry id="str_death_poisoned_monster"><![CDATA[a succombe a la Malediction.]]></entry>
+    <entry id="str_death_poisoned_monster"><![CDATA[a succombé au Poison.]]></entry>
     <entry id="str_death_attack_friendly"><![CDATA[est mort de la main d'un allie.]]></entry>
     <entry id="str_death_bleed_friendly"><![CDATA[est mort de la main d'un allie.]]></entry>
     <entry id="str_death_poisoned_friendly"><![CDATA[est mort de la main d'un allie.]]></entry>
     <entry id="str_death_healing_friendly"><![CDATA[est mort de la main d'un allie.]]></entry>
     <entry id="" />
-    <entry id="str_death_poisoned_unknown"><![CDATA[a succombe a la Malediction.]]></entry>
+    <entry id="str_death_poisoned_unknown"><![CDATA[a succombé au Poison.]]></entry>
     <entry id="str_death_bleed_unknown"><![CDATA[a saigne jusqu'a la mort.]]></entry>
     <entry id="" />
     <entry id="str_death_unknown_unknown"><![CDATA[a succombe a un peril inconnu.]]></entry>
