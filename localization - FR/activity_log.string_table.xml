@@ -143,7 +143,7 @@
     <entry id="str_flagellation_go_missing_story"><![CDATA[est parti dans une quete personnelle faite de sang et de sueur.]]></entry>
     <entry id="" />
     <entry id="str_[activity]_go_missing_found_story"><![CDATA[- [hero name][str_meditation_go_missing_found_story]]]></entry>
-    <entry id="str_bar_go_missing_found_story"><![CDATA[est revenu avec une mechante gueule de Bosquet.]]></entry>
+    <entry id="str_bar_go_missing_found_story"><![CDATA[est revenu avec une mechante gueule de Bois.]]></entry>
     <entry id="str_gambling_go_missing_found_story"><![CDATA[est revenu apres qu'une partie privee ne l'ai mis sur la paille.]]></entry>
     <entry id="str_brothel_go_missing_found_story"><![CDATA[est revenu de maison de plaisirs inconnues.]]></entry>
     <entry id="str_meditation_go_missing_found_story"><![CDATA[est revenu de sa quete de vision.]]></entry>
@@ -162,7 +162,7 @@
     <entry id="str_flagellation_add_quirk_flagellant_story"><![CDATA[est devenu addict a la douleur.]]></entry>
     <entry id="str_flagellation_add_quirk_faithless_story"><![CDATA[, dans un moment de lutte et de souffrance, a perdu la foi.]]></entry>
     <entry id="str_bar_add_quirk_alcoholism_story"><![CDATA[a developpe une dependance envers les esprits.]]></entry>
-    <entry id="str_bar_add_quirk_resolution_story"><![CDATA[a jure qu'il ne picolerais plus jamais apres une gueule de Bosquet particulierement violente.]]></entry>
+    <entry id="str_bar_add_quirk_resolution_story"><![CDATA[a jure qu'il ne picolerais plus jamais apres une gueule de Bois particulierement violente.]]></entry>
     <entry id="str_gambling_add_quirk_gambler_story"><![CDATA[est addict aux jeux de des.]]></entry>
     <entry id="str_gambling_add_quirk_bad_gambler_story"><![CDATA[ne sait pas quand parier et quand se coucher.]]></entry>
     <entry id="str_gambling_add_quirk_known_cheat_story"><![CDATA[a ete pris marquand les cartes.]]></entry>
