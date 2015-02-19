@@ -1,102 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <language id="english">
+  <language id="french">
     <entry id="POPUP TUTORIAL HELPS" />
-    <entry id="tutorial_popup_press_h_title"><![CDATA[Trouvez de l'aide ou vous voulez!]]></entry>
-    <entry id="tutorial_popup_combat_title"><![CDATA[Tuez l'ennemi!]]></entry>
-    <entry id="tutorial_popup_map_nav_title"><![CDATA[Navigation sur la carte]]></entry>
-    <entry id="tutorial_popup_hallway_nav_title"><![CDATA[Mouvement dans les couloirs]]></entry>
-    <entry id="tutorial_popup_curio_title"><![CDATA[Objets Interactifs]]></entry>
-    <entry id="tutorial_popup_bandage_title"><![CDATA[Bandages]]></entry>
-    <entry id="tutorial_popup_antivenom_title"><![CDATA[Soigner le Poison]]></entry>
-    <entry id="tutorial_popup_torch_title"><![CDATA[La Torche]]></entry>
-    <entry id="tutorial_popup_supplies_title"><![CDATA[Provisions pour le Voyage]]></entry>
+    <entry id="tutorial_popup_press_h_title"><![CDATA[Get Help Where You May!]]></entry>
+    <entry id="tutorial_popup_combat_title"><![CDATA[Kill the Enemy!]]></entry>
+    <entry id="tutorial_popup_map_nav_title"><![CDATA[Map Navigation]]></entry>
+    <entry id="tutorial_popup_hallway_nav_title"><![CDATA[Hallway Movement]]></entry>
+    <entry id="tutorial_popup_curio_title"><![CDATA[Interactive Objects]]></entry>
+    <entry id="tutorial_popup_bandage_title"><![CDATA[Bandaging]]></entry>
+    <entry id="tutorial_popup_antivenom_title"><![CDATA[Curing Blight]]></entry>
+    <entry id="tutorial_popup_torch_title"><![CDATA[The Torch]]></entry>
+    <entry id="tutorial_popup_supplies_title"><![CDATA[Provision for the Journey]]></entry>
     <entry id="tutorial_popup_map_combat_skills_title"><![CDATA[Remap Combat Skills]]></entry>
     <entry id="tutorial_popup_map_camping_skills_title"><![CDATA[Remap Camping Skills]]></entry>
-    <entry id="tutorial_popup_camping_quest_title"><![CDATA[Bois de chauffage et Campement]]></entry>
-    <entry id="tutorial_popup_camping_title"><![CDATA[Les Benefices du Campement]]></entry>
-    <entry id="tutorial_popup_stress_relief_title"><![CDATA[Soulagement du Stress]]></entry>
-    <entry id="tutorial_popup_afflicted_title"><![CDATA[Afflige!]]></entry>
-    <entry id="tutorial_popup_virtued_title"><![CDATA[Vertueux!]]></entry>
-    <entry id="tutorial_popup_death_door_title"><![CDATA[Aux Portes de la Mort]]></entry>
-    <entry id="tutorial_popup_consider_retreat_title"><![CDATA[Prudence est mere de surete...]]></entry>
-    <entry id="tutorial_popup_disarm_trap_title"><![CDATA[Desarmement de Pieges]]></entry>
-    <entry id="tutorial_popup_using_doors_title"><![CDATA[Passer les Portes]]></entry>
+    <entry id="tutorial_popup_camping_quest_title"><![CDATA[Firewood and Camping]]></entry>
+    <entry id="tutorial_popup_camping_title"><![CDATA[The Benefits of Camping]]></entry>
+    <entry id="tutorial_popup_stress_relief_title"><![CDATA[Stress Relief]]></entry>
+    <entry id="tutorial_popup_afflicted_title"><![CDATA[Afflicted!]]></entry>
+    <entry id="tutorial_popup_virtued_title"><![CDATA[Virtuous!]]></entry>
+    <entry id="tutorial_popup_death_door_title"><![CDATA[Death's Door]]></entry>
+    <entry id="tutorial_popup_consider_retreat_title"><![CDATA[Discretion is the better part of valor...]]></entry>
+    <entry id="tutorial_popup_disarm_trap_title"><![CDATA[Disarming Traps]]></entry>
+    <entry id="tutorial_popup_using_doors_title"><![CDATA[Entering Doors]]></entry>
     <entry id="tutorial_popup_stress_title"><![CDATA[Stress]]></entry>
-    <entry id="tutorial_popup_trinkets_title"><![CDATA[Psychologie]]></entry>
-    <entry id="tutorial_popup_questparty_title"><![CDATA[Formation du Groupe]]></entry>
-    <entry id="tutorial_popup_resolve_level_title"><![CDATA[Passage de Niveau de Resolution!]]></entry>
-    <entry id="tutorial_popup_stage_coach_title"><![CDATA[La diligence est votre pourvoyeur de Heros]]></entry>
+    <entry id="tutorial_popup_trinkets_title"><![CDATA[Trinkets]]></entry>
+    <entry id="tutorial_popup_questparty_title"><![CDATA[Party Formation]]></entry>
+    <entry id="tutorial_popup_resolve_level_title"><![CDATA[Resolve Level Up!]]></entry>
+    <entry id="tutorial_popup_stage_coach_title"><![CDATA[The Stagecoach is Your Hero Lifeblood]]></entry>
     <entry id="" />
     <entry id="" />
     <entry id="" />
-    <entry id="tutorial_popup_press_h_description"><![CDATA[Sur n'importe quel ecran, laissez appuyé sur [H] pour voir une aide contextuelle.
+    <entry id="tutorial_popup_press_h_description"><![CDATA[On any screen in the game, press and hold [H] to see contextual help for controls in that mode.
 
-Essayez le en ville, en exploration, en combat, pendant le campement, et plus encore.]]></entry>
-    <entry id="tutorial_popup_combat_description"><![CDATA[Le combat est au tour par tout. Au tour de votre Héro, [CLIQUEZ] sur une compétence et [CLIQUEZ] sur une cible en surbrillance. 
+Try it while in town, exploring, fighting, camping, and more.]]></entry>
+    <entry id="tutorial_popup_combat_description"><![CDATA[Combat is turn-based. On your hero's turn, [CLICK] a skill icon and then [CLICK] on a highlighted target. 
 
-Si vous ne pouvez pas sélectionner une compétence particulière, c'est parce que votre héro est mal positionné ou qu'il n'y a pas de cible valide. [Survolez] une compétence pour voir ses prérequis.]]></entry>
-    <entry id="tutorial_popup_map_nav_description"><![CDATA[Vous etes dans une pièce..
+If you can't select a particular skill, it's because that hero needs to be standing in a different spot or there are no valid targets. [Mouse Over] the skill to see the requirements.]]></entry>
+    <entry id="tutorial_popup_map_nav_description"><![CDATA[You are currently in a room.
 
-Pour avancer, [CLIQUEZ] sur une autre pièce sur la carte en bas de l'ecran. Cela vous emmènera dans le couloir les connectant.]]></entry>
-    <entry id="tutorial_popup_hallway_nav_description"><![CDATA[Dans un couloir, appuyez sur [D] pour avancer, [A] pour reculer.
+To move forth, [CLICK] on another room on the map display. This will take you to the connecting hallway.]]></entry>
+    <entry id="tutorial_popup_hallway_nav_description"><![CDATA[While in a hallway, press [D] to move forward, [A] to move back.
 
-Si vous préférez la souris, vous pouvez [CLIQUER] a l'avant ou a l'arriere de votre équipe pour les déplacer.]]></entry>
-    <entry id="tutorial_popup_curio_description"><![CDATA[Pendant l'exploration, vous trouverez souvent des objets interactifs. [CLIQUEZ] ou appuyez sur [W] pour les examiner. Jetez donc un oeil a cette tente...]]></entry>
-    <entry id="tutorial_popup_bandage_description"><![CDATA[Votre Hero Saigne !
+If you prefer the mouse, you can [CLICK] ahead or behind the party to move them.]]></entry>
+    <entry id="tutorial_popup_curio_description"><![CDATA[While exploring, you will often find interactive objects. [CLICK] or press [W] to investigate them. Take a look at this tent...]]></entry>
+    <entry id="tutorial_popup_bandage_description"><![CDATA[Your hero is bleeding!
 
-Si vous le souhaitez, vous pouvez utiliser un bandage de votre inventaire pour stopper le saignement. [CLIC-DROIT] sur le bandage pendant que c'est le tour de la personne blessée.]]></entry>
-    <entry id="tutorial_popup_antivenom_description"><![CDATA[Votre Hero est corrompu!
+If you wish, you can use a bandage from inventory to stop the flow. [RIGHT-CLICK] on the bandage while it's the injured hero's turn.]]></entry>
+    <entry id="tutorial_popup_antivenom_description"><![CDATA[Your hero is blighted!
 
-Si vous le souhaitez, vous pouver utiliser un anti-venin de votre inventaire pour le neutraliser. [CLIC-DROIT] sur l'anti-venin pendant que c'est le tour de la personne corrompue.]]></entry>
-    <entry id="tutorial_popup_torch_description"><![CDATA[La lumiere baisse! Le niveau de Torche affecte de nombreux mecanismes de jeu. Plus il fait sombre, plus les choses sont difficile mais les récompenses sont plus elevées. [CLIC-DROIT] sur une torche dans l'inventaire pour augmenter le niveau de lumière.]]></entry>
-    <entry id="tutorial_popup_supplies_description"><![CDATA[Vous allez vouloir prendre des provisions variées en fonction de la region ou vous voulez aller, la durée de la quete, et vos propre préférences. Mais emmenez toujours de la nourriture et des torches!
+If you wish, you can use anti-venom from inventory to neutralize it. [RIGHT-CLICK] on the anti-venom while it's the injured hero's turn.]]></entry>
+    <entry id="tutorial_popup_torch_description"><![CDATA[The light is fading! The current torch level greatly affects many mechanics in the game. The darker it gets, the harder things get but the better the rewards. [RIGHT-CLICK] on a torch from inventory to boost the light back up.]]></entry>
+    <entry id="tutorial_popup_supplies_description"><![CDATA[You'll want to take different supplies depending on what region you are going to, how long the quest is, and your own preferences. But always bring some food and torches!
 
-Pour votre premiere quete, essayez d'amener au moins 8 de nourriture et 4 torches.]]></entry>
-    <entry id="tutorial_popup_map_combat_skills_description"><![CDATA[Les Heros ne peuvent avoir que 4 compétences de combat active a un même moment. Changez les compétences pour voir comment le positionnement idéal de votre héro change!]]></entry>
-    <entry id="tutorial_popup_map_camping_skills_description"><![CDATA[Les Héros ne peuvent pas avoir plus de 3 compétences de campement à un même moment. Basculez les competences en actif/inactif en cliquant dessus.]]></entry>
-    <entry id="tutorial_popup_camping_quest_description"><![CDATA[Cette Quête implique de camper, et camper requiert du Bois de chauffage. Le Bois de chauffage vous est donné automatiquement sur les quêtes le requierant.
+For your first short quest, try bringing at least 8 food and 4 torches.]]></entry>
+    <entry id="tutorial_popup_map_combat_skills_description"><![CDATA[Heroes can only have 4 active combat skills at a time. Toggle the skills on and off to change your loadout, and watch how it changes that hero's positional strength in the display above!]]></entry>
+    <entry id="tutorial_popup_map_camping_skills_description"><![CDATA[Heroes can only have 3 camping skills active at a time. Toggle the skills on and off by clicking on them.]]></entry>
+    <entry id="tutorial_popup_camping_quest_description"><![CDATA[This quest involves camping, and camping requires firewood. Firewood is given automatically to you on appropriate quests.
 
-Camper donne aux Héros une chance de récuperer a l'interieur d'un Donjon. Lorsque vous etes blessés ou Stressés et desirez camper, faites [CLIC-DROIT] sur le Bois de chauffage dans votre inventaire.]]></entry>
-    <entry id="tutorial_popup_camping_description"><![CDATA[Le Campement consiste en deux phases : la phase repas et la phase compétences.
+Camping gives heroes a chance to recuperate while in the dungeon. When you are wounded or stressed and wish to camp, [RIGHT-CLICK] on the firewood in your inventory.]]></entry>
+    <entry id="tutorial_popup_camping_description"><![CDATA[Camping consists of two parts: Meal phase and Skill phase.
 
-Pendant la phase de repas, vous choisissez quelle quantité les héros mangent, ce qui determine leur récuperation. Soyez bien sûr d'avoir suffisamment de nourriture!
+During the Meal phase, you choose how much they eat, which determines recovery. Make sure you have enough food!
 
-La phase de compétence vous permet de dépenser des points de Repos sur différentes compétences de Héros utilisés pour la recuperation.]]></entry>
-    <entry id="tutorial_popup_stress_relief_description"><![CDATA[Les Heros soulagent leur stress en prenant part a des activités dans la Taverne et l'Abbaye. Chaque activité a differents effets secondaires.
+Skill Phase allows you to spend Rest Points on different hero skills used for recuperation.]]></entry>
+    <entry id="tutorial_popup_stress_relief_description"><![CDATA[Heroes relieve stress by taking part in activities at the Tavern and Abbey. Each activity has different side-effects.
 
-Experimentez pour trouver ce qui va le mieux a chaque héro en fonction de leur Psychologie!]]></entry>
-    <entry id="tutorial_popup_afflicted_description"><![CDATA[Lorsque les héros ne peuvent plus supporter le Stress, ils deviennent Affligés. Cela se manifeste par différents comportements et changements de statistiques. Les Afflictions restent jusqu'à ce que vous envoyiez le hero au sanatorium pour qu'il reçoive un traitement, à moins que vous ne parveniez à reduire son stress à 0 pendant la quête.]]></entry>
-    <entry id="tutorial_popup_virtued_description"><![CDATA[Parfois, vos Heros repondront aux assauts du stress en devenant Heroïques!
+Experiment to find the best activity for each hero, depending on their quirks!
 
-Cet état éleve leur niveau de performances et durera jusqu'a ce qu'ils campent ou retournent en ville, et confère des bonus et des bénéfices divers.]]></entry>
-    <entry id="tutorial_popup_death_door_description"><![CDATA[Lorsqu'un héro voit sa santé réduite a 0 PV, ils sont "Aux Portes de la Mort".
+Commiting a hero to an activity [LOCKS THEM IN THAT ACTIVITY] until the next Week. You'll have to take a different hero with you on your next quest.]]></entry>
+    <entry id="tutorial_popup_afflicted_description"><![CDATA[When heroes can't take the stress any more, they become afflicted. This manifests in different behaviors and stat changes. Afflictions last until you send them to treatment in town, unless you can reduce their stress to zero during the quest.]]></entry>
+    <entry id="tutorial_popup_virtued_description"><![CDATA[Sometimes, heroes respond to the onslaught of stress by becoming heroic!
 
-Dans cet état ils souffriront de penalités à leurs statistiques et tout dégâts supplémentaires ont une chance de le tuer.
+This elevated state of performance will last until they camp or return to town, and confers stat bonuses and other benefits.]]></entry>
+    <entry id="tutorial_popup_death_door_description"><![CDATA[When a hero is reduced to 0 HP, they are at "Death's Door."
 
-Soignez les afin de les faire sortir de cet état!]]></entry>
-    <entry id="tutorial_popup_consider_retreat_description"><![CDATA[Le premier de nombreux heros a finalement tout donne a votre service. Vous avez l'option de fuir le combat et d'abandonner cette quete pour sauver les autres, ou continuer a avancer.
+While in this state, they will suffer stat penalties, plus any further damage has a chance to kill them.
 
-Le choix est votre. [Si c'est le tutoriel, la retraite n'est pas disponible.]]]></entry>
-    <entry id="tutorial_popup_disarm_trap_description"><![CDATA[Les pieges decouverts seront visibles au sol alors que vous les approchez. Selectionnez un heros et [CLIQUEZ] sur le piege pour tenter de le desamorcer.
+Heal them to get off Death's Door!]]></entry>
+    <entry id="tutorial_popup_consider_retreat_description"><![CDATA[The first of many heroes has given their all in service to you. You have the option of retreating from combat and abandoning this quest to save the others, or press onward.
 
-Certains Heros sont meilleurs que d'autres au desarmement.]]></entry>
-    <entry id="tutorial_popup_using_doors_description"><![CDATA[Pour passer une porte, [CLIQUEZ] ou appuyez sur [W] alors que vous vous tenez devant.]]></entry>
-    <entry id="tutorial_popup_stress_description"><![CDATA[Beaucoup d'actions et d'experiences provoquent du Stress. Les degats de stress apparaissent au dessus de vos heros en noir. Le Stress peut etre soigne et cela apparait en blanc.]]></entry>
-    <entry id="tutorial_popup_trinkets_description"><![CDATA[Chaque hero a de la place pour equipet deux objets, appeles "babioles". Glissez et deposez une babiole depuis l'inventaire vers l'emplacement sur le hero. Les babioles ont generalement deux penchants: quelque chose de positif, quelque chose de negatif. Certains sont aussi limites a une seule classe.]]></entry>
-    <entry id="tutorial_popup_questparty_description"><![CDATA[Chaque quete a des objectifs divers et des recompenses, et chaque regions a ses propres challenges. Experimentez diverses combinaisons pour voir ce qui fonctionne!
+The choice is yours. [If this is the tutorial, retreat is unavailable.]]]></entry>
+    <entry id="tutorial_popup_disarm_trap_description"><![CDATA[Scouted traps will be visible on the ground as you approach them. Select a hero and then [CLICK] on the trap to attempt to disarm it.
 
-Cependant, il est recommande d'emmener avec vous une Vestale ou un Occultiste pour les soins.]]></entry>
-    <entry id="tutorial_popup_resolve_level_description"><![CDATA[Vos heros vont gagner de l'Expérience pour chaque quete reussie. l'Expérience determine le niveau de resolution du hero.
+Some heroes are better than others at disarming.]]></entry>
+    <entry id="tutorial_popup_using_doors_description"><![CDATA[To enter a door, [CLICK] or press [W] when standing in front of it.]]></entry>
+    <entry id="tutorial_popup_stress_description"><![CDATA[Many actions and experiences cause stress. Stress damage appears above heroes' heads, in black type. Stress can also be healed, and that appears in white type.]]></entry>
+    <entry id="tutorial_popup_trinkets_description"><![CDATA[Each hero has room to equip two items, called "trinkets." Just drag the trinket from inventory over to the selected hero's slot. Trinkets generally have a trade-off: something good, something bad. Some are also class-specific.]]></entry>
+    <entry id="tutorial_popup_questparty_description"><![CDATA[Each quest has different goals and rewards, and each region has its own challenges. Experiment with various combinations to see what works!
 
-Ce niveau represente l'experience du Hero et agit directement sur la resistance au stress contre les horreurs rencontrees dans les donjons.
+However, it's recommended to bring along a Vestal or an Occultist for healing.]]></entry>
+    <entry id="tutorial_popup_resolve_level_description"><![CDATA[Heroes gain Resolve XP for each successful quest. Resolve XP in turn determines the hero's Resolve Level.
 
-A un niveau faible de resolution, un hero va rapidement succomber aux horreux inimaginables d'une quete de niveau elevee.]]></entry>
-    <entry id="tutorial_popup_stage_coach_description"><![CDATA[Vous aurez besoin de recruter ces deux heros pour remplir votre equipe de 4.[Glissez et Deposez] les dans votre liste.
+Resolve Level represents the hero's veteranship, and directly acts as Stress Resistance against the horrors encountered in the dungeons.
 
-Pendant que vous etes la, depensez un peu des ressources de depart sur l'AMELIORATION de la reseau de diligence. Cela augmentera le nombre de heros disponibles ici dans le futur.
+A low Resolve Level hero that tries a higher level quest will quickly crumble under the unimaginable stresses.]]></entry>
+    <entry id="tutorial_popup_stage_coach_description"><![CDATA[You'll need to recruit these two heroes to fill out a party of four. [Drag and drop] them into your roster.
 
-Pour upgrader, cliquez sur le symbole [+] sur la gauche, et cliquer sur l'amelioration.]]></entry>
+While you're here, spend some of your starting resources on UPGRADING the Stagecoach network. This will increase the number of heroes available here in the future.
+
+To upgrade, click the [+] symbol on the left, and then click the upgrade.]]></entry>
     <entry id="" />
     <entry id="" />
     <entry id="" />
@@ -106,7 +108,7 @@ Pour upgrader, cliquez sur le symbole [+] sur la gauche, et cliquer sur l'amelio
     <entry id="" />
     <entry id="" />
     <entry id="ONSCREEN HELPS" />
-    <entry id="str_help_town_0"><![CDATA[[CLIC-DROIT] on a hero in the roster to inspect their detailed character sheet. They can be renamed or dismissed permanently from there.]]></entry>
+    <entry id="str_help_town_0"><![CDATA[[RIGHT-CLICK] on a hero in the roster to inspect their detailed character sheet. They can be renamed or dismissed permanently from there.]]></entry>
     <entry id="str_help_town_1"><![CDATA[[CLICK] on buildings to use them to interact with your heroes.]]></entry>
     <entry id="str_help_town_2"><![CDATA[STAGECOACH: recruit new heroes]]></entry>
     <entry id="str_help_town_3"><![CDATA[BLACKSMITH: upgrade heroes' weapons and armor]]></entry>
@@ -119,7 +121,7 @@ Pour upgrader, cliquez sur le symbole [+] sur la gauche, et cliquer sur l'amelio
     <entry id="" />
     <entry id="" />
     <entry id="str_help_town_stage_coach_0"><![CDATA[[CLICK] the + icon to see upgrade options for this building.]]></entry>
-    <entry id="str_help_town_stage_coach_1"><![CDATA[[CLIC-DROIT] on new heroes to inspect them.]]></entry>
+    <entry id="str_help_town_stage_coach_1"><![CDATA[[RIGHT-CLICK] on new heroes to inspect them.]]></entry>
     <entry id="str_help_town_stage_coach_2"><![CDATA[[DRAG] new heroes to your roster to recruit them.]]></entry>
     <entry id="" />
     <entry id="str_help_town_blacksmith_0"><![CDATA[[CLICK] the + icon to see upgrade options for this building.]]></entry>
@@ -177,16 +179,16 @@ Pour upgrader, cliquez sur le symbole [+] sur la gauche, et cliquer sur l'amelio
     <entry id="str_help_raid_room_3"><![CDATA[[CLICK] on firewood in inventory (if you have any) to start CAMPING.]]></entry>
     <entry id="str_help_raid_room_4"><![CDATA[[MOUSE OVER] the torch meter to see current light level and gameplay effects.]]></entry>
     <entry id="str_help_raid_room_5"><![CDATA[[CLICK] on retreat flag to abandon the quest.]]></entry>
-    <entry id="str_help_raid_room_6"><![CDATA[While interacting with an object: [CLIC-DROIT] an inventory item to apply it to the object. Some items will yield positive effects.]]></entry>
-    <entry id="str_help_raid_room_7"><![CDATA[Use [MOUSEWHEEL] to zoom map and [CLIC-DROIT] and [DRAG] to pan map.]]></entry>
-    <entry id="str_help_raid_room_8"><![CDATA[[CLIC-DROIT] a hero to see their detailed character sheet.]]></entry>
+    <entry id="str_help_raid_room_6"><![CDATA[While interacting with an object: [RIGHT-CLICK] an inventory item to apply it to the object. Some items will yield positive effects.]]></entry>
+    <entry id="str_help_raid_room_7"><![CDATA[Use [MOUSEWHEEL] to zoom map and [RIGHT-CLICK] and [DRAG] to pan map.]]></entry>
+    <entry id="str_help_raid_room_8"><![CDATA[[RIGHT-CLICK] a hero to see their detailed character sheet.]]></entry>
     <entry id="" />
     <entry id="str_help_raid_hallway_0"><![CDATA[Press [D] to walk forward, [A] to walk backward.]]></entry>
     <entry id="str_help_raid_hallway_1"><![CDATA[[CLICK] on a hero's move skill to change their party position.]]></entry>
     <entry id="str_help_raid_hallway_2"><![CDATA[Entering Doors: When in front of a door, [CLICK] on it or press [W].]]></entry>
-    <entry id="str_help_raid_hallway_3"><![CDATA[Use [MOUSEWHEEL] to zoom map and [CLIC-DROIT] and [DRAG] to pan map.]]></entry>
+    <entry id="str_help_raid_hallway_3"><![CDATA[Use [MOUSEWHEEL] to zoom map and [RIGHT-CLICK] and [DRAG] to pan map.]]></entry>
     <entry id="str_help_raid_hallway_4"><![CDATA[[CLICK] on objects or press [W] to interact with them. The selected hero will perform the interaction.]]></entry>
-    <entry id="str_help_raid_hallway_5"><![CDATA[[CLIC-DROIT] a hero to see their detailed character sheet.]]></entry>
+    <entry id="str_help_raid_hallway_5"><![CDATA[[RIGHT-CLICK] a hero to see their detailed character sheet.]]></entry>
     <entry id="str_help_raid_hallway_6"><![CDATA[[CLICK] on the INVENTORY tab to examine supplies.]]></entry>
     <entry id="str_help_raid_hallway_7"><![CDATA[[CLICK] on the PERSONALITY tab to see the current hero's quirks and afflictions.]]></entry>
     <entry id="str_help_raid_hallway_8"><![CDATA[[CLICK] on the retreat flag to abandon the quest.]]></entry>
@@ -197,9 +199,9 @@ Pour upgrader, cliquez sur le symbole [+] sur la gauche, et cliquer sur l'amelio
     <entry id="str_help_raid_combat_0"><![CDATA[On hero's turn, [CLICK] a valid combat skill and then [CLICK] a target to act. You can also use [# keys] 1-5 to quickly select a skill.]]></entry>
     <entry id="str_help_raid_combat_1"><![CDATA[Each skill has different requirements for where the hero needs to be standing and what enemies they can target. [MOUSE OVER] the skill to se the requirements.]]></entry>
     <entry id="str_help_raid_combat_2"><![CDATA[[MOUSE OVER] enemies to see stats and chances to hit/damage/crit with currently selected skill.]]></entry>
-    <entry id="str_help_raid_combat_3"><![CDATA[[CLIC-DROIT] on Anti-Venom or Bandages in inventory to heal BLIGHT or BLEED on the current hero.]]></entry>
+    <entry id="str_help_raid_combat_3"><![CDATA[[RIGHT-CLICK] on Anti-Venom or Bandages in inventory to heal BLIGHT or BLEED on the current hero.]]></entry>
     <entry id="str_help_raid_combat_4"><![CDATA[[CLICK] on Retreat Flag to attempt to retreat from the combat.]]></entry>
-    <entry id="str_help_raid_combat_5"><![CDATA[[CLIC-DROIT] on a hero to see their detailed character sheet.]]></entry>
+    <entry id="str_help_raid_combat_5"><![CDATA[[RIGHT-CLICK] on a hero to see their detailed character sheet.]]></entry>
     <entry id="" />
     <entry id="str_help_raid_camping_0"><![CDATA[[CLICK] on meal options to choose how much to eat. You are limited by how much food you have in inventory.]]></entry>
     <entry id="str_help_raid_camping_1"><![CDATA[Your party has [10 ACTION POINTS] to spend on using camping skills.]]></entry>
@@ -243,61 +245,105 @@ Pour upgrader, cliquez sur le symbole [+] sur la gauche, et cliquer sur l'amelio
     <entry id="str_warrens_tip"><![CDATA[A well-placed supply item can often protect against the hazards of interactive objects you encounter.]]></entry>
     <entry id="str_warrens_tip"><![CDATA[You can retreat from combat and even abandon quests. If things are going terribly, live to fight another day.]]></entry>
   </language>
-  <language id="french">
+  <language id="english">
     <entry id="POPUP TUTORIAL HELPS" />
-    <entry id="tutorial_popup_press_h_title" />
-    <entry id="tutorial_popup_combat_title" />
-    <entry id="tutorial_popup_map_nav_title" />
-    <entry id="tutorial_popup_hallway_nav_title" />
-    <entry id="tutorial_popup_curio_title" />
-    <entry id="tutorial_popup_bandage_title" />
-    <entry id="tutorial_popup_antivenom_title" />
-    <entry id="tutorial_popup_torch_title" />
-    <entry id="tutorial_popup_supplies_title" />
-    <entry id="tutorial_popup_map_combat_skills_title" />
-    <entry id="tutorial_popup_map_camping_skills_title" />
-    <entry id="tutorial_popup_camping_quest_title" />
-    <entry id="tutorial_popup_camping_title" />
-    <entry id="tutorial_popup_stress_relief_title" />
-    <entry id="tutorial_popup_afflicted_title" />
-    <entry id="tutorial_popup_virtued_title" />
-    <entry id="tutorial_popup_death_door_title" />
-    <entry id="tutorial_popup_consider_retreat_title" />
-    <entry id="tutorial_popup_disarm_trap_title" />
-    <entry id="tutorial_popup_using_doors_title" />
-    <entry id="tutorial_popup_stress_title" />
-    <entry id="tutorial_popup_trinkets_title" />
-    <entry id="tutorial_popup_questparty_title" />
-    <entry id="tutorial_popup_resolve_level_title" />
-    <entry id="tutorial_popup_stage_coach_title" />
+    <entry id="tutorial_popup_press_h_title"><![CDATA[Trouvez de l'aide ou vous pouvez!]]></entry>
+    <entry id="tutorial_popup_combat_title"><![CDATA[Tuez l'Ennemi!]]></entry>
+    <entry id="tutorial_popup_map_nav_title"><![CDATA[Navigation sur la Carte]]></entry>
+    <entry id="tutorial_popup_hallway_nav_title"><![CDATA[Se deplacer dans les couloirs]]></entry>
+    <entry id="tutorial_popup_curio_title"><![CDATA[Objets Interactifs]]></entry>
+    <entry id="tutorial_popup_bandage_title"><![CDATA[Bandage]]></entry>
+    <entry id="tutorial_popup_antivenom_title"><![CDATA[Anti-Venin]]></entry>
+    <entry id="tutorial_popup_torch_title"><![CDATA[La Torche]]></entry>
+    <entry id="tutorial_popup_supplies_title"><![CDATA[Provisions pour le voyage]]></entry>
+    <entry id="tutorial_popup_map_combat_skills_title"><![CDATA[Changer les Compétences de Combat]]></entry>
+    <entry id="tutorial_popup_map_camping_skills_title"><![CDATA[Changer les Compétences de Campement]]></entry>
+    <entry id="tutorial_popup_camping_quest_title"><![CDATA[Bois et Campement]]></entry>
+    <entry id="tutorial_popup_camping_title"><![CDATA[Les Avantages du Campement]]></entry>
+    <entry id="tutorial_popup_stress_relief_title"><![CDATA[Soulagement du Stress]]></entry>
+    <entry id="tutorial_popup_afflicted_title"><![CDATA[Afflige!]]></entry>
+    <entry id="tutorial_popup_virtued_title"><![CDATA[Vertueux!]]></entry>
+    <entry id="tutorial_popup_death_door_title"><![CDATA[Aux portes de la Mort]]></entry>
+    <entry id="tutorial_popup_consider_retreat_title"><![CDATA[Prudence est mere de surete...]]></entry>
+    <entry id="tutorial_popup_disarm_trap_title"><![CDATA[Desarmement des Pieges]]></entry>
+    <entry id="tutorial_popup_using_doors_title"><![CDATA[Ouvrir les portes]]></entry>
+    <entry id="tutorial_popup_stress_title"><![CDATA[Stress]]></entry>
+    <entry id="tutorial_popup_trinkets_title"><![CDATA[Bijoux]]></entry>
+    <entry id="tutorial_popup_questparty_title"><![CDATA[Formation du Groupe]]></entry>
+    <entry id="tutorial_popup_resolve_level_title"><![CDATA[Gain de Niveau!]]></entry>
+    <entry id="tutorial_popup_stage_coach_title"><![CDATA[La Diligence est votre source de Heros]]></entry>
     <entry id="" />
     <entry id="" />
     <entry id="" />
-    <entry id="tutorial_popup_press_h_description" />
-    <entry id="tutorial_popup_combat_description" />
-    <entry id="tutorial_popup_map_nav_description" />
-    <entry id="tutorial_popup_hallway_nav_description" />
-    <entry id="tutorial_popup_curio_description" />
-    <entry id="tutorial_popup_bandage_description" />
-    <entry id="tutorial_popup_antivenom_description" />
-    <entry id="tutorial_popup_torch_description" />
-    <entry id="tutorial_popup_supplies_description" />
-    <entry id="tutorial_popup_map_combat_skills_description" />
-    <entry id="tutorial_popup_map_camping_skills_description" />
-    <entry id="tutorial_popup_camping_quest_description" />
-    <entry id="tutorial_popup_camping_description" />
-    <entry id="tutorial_popup_stress_relief_description" />
-    <entry id="tutorial_popup_afflicted_description" />
-    <entry id="tutorial_popup_virtued_description" />
-    <entry id="tutorial_popup_death_door_description" />
-    <entry id="tutorial_popup_consider_retreat_description" />
-    <entry id="tutorial_popup_disarm_trap_description" />
-    <entry id="tutorial_popup_using_doors_description" />
-    <entry id="tutorial_popup_stress_description" />
-    <entry id="tutorial_popup_trinkets_description" />
-    <entry id="tutorial_popup_questparty_description" />
-    <entry id="tutorial_popup_resolve_level_description" />
-    <entry id="tutorial_popup_stage_coach_description" />
+    <entry id="tutorial_popup_press_h_description"><![CDATA[Sur n'importe quelle fenêtre du jeu, appuyez et maintenez [H] pour afficher l'aide contextuelle.
+
+Essayez-le en ville, en explorant, en combattant, en campant, etc...]]></entry>
+    <entry id="tutorial_popup_combat_description"><![CDATA[Le combat s'effectuent au tour par tour. Quand c'est votre tour, [CLIQUEZ] sur une icône de compétences, puis [CLIQUEZ] sur une cible en surbrillance. 
+
+Si vous ne pouvez pas sélectionner une compétence, c'est que votre héros doit changer de position ou qu'il n'y a pas de cible valide. [Survolez] la compétence pour voir ces pré-requis.]]></entry>
+    <entry id="tutorial_popup_map_nav_description"><![CDATA[Vous êtes actuellement dans une pièce.
+
+Pour avancer, [CLIQUEZ] sur une autre pièce de la carte. Cela vous conduira dans le couloir y menant.]]></entry>
+    <entry id="tutorial_popup_hallway_nav_description"><![CDATA[Quand vous êtes dans un couloir, appuyez sur [D] pour avancer, [A] pour reculer.
+
+Si vous préférez jouer à la souris, vous pouvez [CLIQUEZ] devant ou derrière le groupe pour le déplacer.]]></entry>
+    <entry id="tutorial_popup_curio_description"><![CDATA[Pendant l'exploration, vous trouverez souvent des objets interactifs. [CLIQUEZ] ou appuyez sur [W] pour les fouiller. Jetez un oeil à cette tente...]]></entry>
+    <entry id="tutorial_popup_bandage_description"><![CDATA[Votre héros saigne!
+
+Si vous le souhaitez, vous pouvez utiliser un bandage dans votre inventaire pour arrêter le saignement. [CLIC-DROIT] sur le bandage pendant le tour du héros blessé.]]></entry>
+    <entry id="tutorial_popup_antivenom_description"><![CDATA[Votre héros est empoisonné!
+
+Si vous le souhaitez, vous pouvez utiliser l'anti-venin dans votre inventaire pour le neutraliser. [CLIC-DROIT] sur l'anti-venin pendant le tour du héros blessé.]]></entry>
+    <entry id="tutorial_popup_torch_description"><![CDATA[La lumière s'estompe! Le niveau actuel de la torche affecte grandement les nombreuses mécaniques du jeu. Plus il fait sombre, plus les choses sont difficiles, mais meilleures seront les récompenses. [CLIC-DROIT] sur une torche dans votre inventaire pour raviver la flamme.]]></entry>
+    <entry id="tutorial_popup_supplies_description"><![CDATA[N'oubliez pas de prendre des provisions différentes suivant dans quelle région vous allez, suivant la durée de la quête, et en fonction de vos propres préférences. Mais apporter toujours de la nourriture et des torches!
+
+Pour votre 1ère quête courte, prennez au moins 8 nourritures et 4 torches.]]></entry>
+    <entry id="tutorial_popup_map_combat_skills_description"><![CDATA[Les héros ne peuvent avoir que 4 compétences de combat actives à la fois. Modifier les compétences en les activant/désactivant en fonction de votre style de jeu, et regardez comment cela affecte la position préférée de votre héros dans l'encadré ci-dessus!]]></entry>
+    <entry id="tutorial_popup_map_camping_skills_description"><![CDATA[Les héros ne peuvent avoir que 3 compétences de campement actives à la fois. Modifier les compétences en les activant/désactivant en cliquant dessus.]]></entry>
+    <entry id="tutorial_popup_camping_quest_description"><![CDATA[Cette quête implique un campement, et le campement nécessite du bois. Le bois vous sera fourni automatiquement pour ces quêtes.
+
+Le Campement donne aux héros une chance de récupérer un peu dans le donjon. Lorsque vous êtes blessé ou stressé et que vous souhaitez camper, faites un [CLIC-DROIT] sur le bois dans votre inventaire.]]></entry>
+    <entry id="tutorial_popup_camping_description"><![CDATA[Le Campement se décompose en 2 parties: la phase du Repas et la phase de Repos.
+
+Pendant la phase du Repas, vous choisissez la quantité de nourriture qu'ils vont manger, ce qui déterminera la vie récupérée. Assurez-vous d'avoir assez de nourriture!
+
+La phase de Repos vous permet de dépenser des points de repos en activant les aptitudes de campement de vos héros afin de récupérer.]]></entry>
+    <entry id="tutorial_popup_stress_relief_description"><![CDATA[Les héros soulagent leur stress en participant à des activités à la Taverne et à l'Abbaye. Chaque activité a des effets secondaires différents.
+
+Essaiyez de trouver la meilleur activité pour chaque héros, en tenant compte de leurs spécificités!
+
+Assigner une activité à un héros [LE BLOQUE DANS CETTE ACTIVITÉ] jusqu'à la semaine suivante. Vous devrez donc prendre un héros différent pour votre prochaine quête.]]></entry>
+    <entry id="tutorial_popup_afflicted_description"><![CDATA[Lorsque les héros ne supportent plus le stress, ils deviennent affligés. Cela se manisfestera par des comportements différents et des changements de statistiques. Les afflictions restent tant que vous n'envoyez pas vos héros en cure dans le village, à moins que vous ne réduisiez leur stress pendant la quête.]]></entry>
+    <entry id="tutorial_popup_virtued_description"><![CDATA[Quelque fois, les héros répondront au trop plein de stress en devenant héroïques!
+
+Cet état de performances accru durera jusqu'à ce qu'ils campent ou rentrent au village, et confère des statistiques bonus et d'autres avantages.]]></entry>
+    <entry id="tutorial_popup_death_door_description"><![CDATA[Lorsque la vie d'un héros est réduite à 0 HP, il se trouve "Aux Portes de la Mort"
+
+Dans cet état, ses statistiques en prendront un coup, et n'importe quel dégâts lui étant infligés aura une chance de le tuer.
+
+Soignez-le pour les sortir des Portes de la Mort!]]></entry>
+    <entry id="tutorial_popup_consider_retreat_description"><![CDATA[Le premier de vos nombreux héros a mis sa vie à votre service. Vous avez le choix de battre en retraite pendant un combat et d'abandonner la quête pour sauver les autres, ou continuer.
+
+Le choix vous appartient. [Dans ce tutoriel, la retraite n'est pas disponible.]]]></entry>
+    <entry id="tutorial_popup_disarm_trap_description"><![CDATA[Les Pièges découverts seront visibles au sol dès que vous les approchez. Sélectionnez un héros, puis [CLIQUEZ] sur le piège pour tenter de le désarmer.
+
+Certains héros sont meilleurs que d'autres concernant le désarmement.]]></entry>
+    <entry id="tutorial_popup_using_doors_description"><![CDATA[Pour Passer une Porte, [CLIQUEZ] ou appuyez sur [W] devant elle.]]></entry>
+    <entry id="tutorial_popup_stress_description"><![CDATA[Les nombreuses actions et expériences sont source de stress. Les Dommages dûs au stress apparaissent au-dessus de la tête des héros, dans une cercle noir. Le stress peut aussi être soigné, cela apparaît dans un cercle blanc.]]></entry>
+    <entry id="tutorial_popup_trinkets_description"><![CDATA[Chaque héros peut être équipé de 2 objets appelés "Bijoux". Glissez simplement le bijou depuis l'inventaire dans l'emplacement vide du héros choisit. Les bijoux ont généralement deux effets: un bon, et un mauvais. Certains sont spécifiques à une classe en particulier.]]></entry>
+    <entry id="tutorial_popup_questparty_description"><![CDATA[Chaque quête a différents objectifs et récompenses, et chaque région a ses propres défis. Expérimentez avec différentes combinaisons pour voir ce qui fonctionne!
+
+Cependant, il est recommandé d'apporter un Vestale ou un Occultiste pour les soins.]]></entry>
+    <entry id="tutorial_popup_resolve_level_description"><![CDATA[Les héros gagnent des gains d'XP pour chaque quête réussie. Le gain d'XP détermine à son tour le Niveau de votre héros.
+
+Le niveau de vos héros représente son rang; il influe directement sur sa Résistance au Stress face aux horreurs rencontrées dans les donjons.
+
+Un héros de bas niveau qui s'aventure dans une quête de haut niveau sera rapidement dépassé par le stress insurmontable.]]></entry>
+    <entry id="tutorial_popup_stage_coach_description"><![CDATA[Vous allez devoir recruter ses 2 héros pour finaliser votre groupe de 4 personnes. [Glisser-déposer] les dans votre garnison.
+
+Pendant que vous êtes ici, dépenser une partie de vos ressources pour la modernisation du réseau de la Diligence. Cela augmentera le nombre de héros disponibles à l'avenir.
+
+Pour l'Améliorer, cliquez sur le symbole [+] à gauche, puis sur l'Amélioration.]]></entry>
     <entry id="" />
     <entry id="" />
     <entry id="" />
@@ -307,105 +353,105 @@ Pour upgrader, cliquez sur le symbole [+] sur la gauche, et cliquer sur l'amelio
     <entry id="" />
     <entry id="" />
     <entry id="ONSCREEN HELPS" />
-    <entry id="str_help_town_0" />
-    <entry id="str_help_town_1" />
-    <entry id="str_help_town_2" />
-    <entry id="str_help_town_3" />
-    <entry id="str_help_town_4" />
-    <entry id="str_help_town_5" />
-    <entry id="str_help_town_6" />
-    <entry id="str_help_town_7" />
-    <entry id="str_help_town_8" />
-    <entry id="str_help_town_9" />
+    <entry id="str_help_town_0"><![CDATA[[CLIC-DROIT] sur un héros de la garnison pour inspecter la fiche détaillée du personnage. Ils peuvent être renommés ou renvoyés de façon permanente.]]></entry>
+    <entry id="str_help_town_1"><![CDATA[[CLIQUEZ] sur les bâtiments pour y accéder et intéragir avec vos héros.]]></entry>
+    <entry id="str_help_town_2"><![CDATA[DILIGENCE: Recruter de nouveaux héros]]></entry>
+    <entry id="str_help_town_3"><![CDATA[FORGE: Améliorer les armes et armures des héros]]></entry>
+    <entry id="str_help_town_4"><![CDATA[GUILDE: Améliorer les compétences de combat des héros]]></entry>
+    <entry id="str_help_town_5"><![CDATA[SURVIVALISTE: Améliorer les compétences de campement des héros]]></entry>
+    <entry id="str_help_town_6"><![CDATA[TAVERNE: Envoyez-y les héros pour se soulager du Stress]]></entry>
+    <entry id="str_help_town_7"><![CDATA[ABBAYE: Envoyez-y les héros pour se soulager du Stress]]></entry>
+    <entry id="str_help_town_8"><![CDATA[SANATORIUM: Traiter les spécificités négatives et les maladies des héros]]></entry>
+    <entry id="str_help_town_9"><![CDATA[CHARIOT DE NOMADE: Acheter des objets rares]]></entry>
     <entry id="" />
     <entry id="" />
-    <entry id="str_help_town_stage_coach_0" />
-    <entry id="str_help_town_stage_coach_1" />
-    <entry id="str_help_town_stage_coach_2" />
+    <entry id="str_help_town_stage_coach_0"><![CDATA[[CLIQUEZ] sur le symbole [+] pour voir les options d'Amélioration pour ce bâtiment.]]></entry>
+    <entry id="str_help_town_stage_coach_1"><![CDATA[[CLIC-DROIT] sur les nouveaux héros pour les inspecter.]]></entry>
+    <entry id="str_help_town_stage_coach_2"><![CDATA[[GLISSER] les nouveaux héros dans votre garnison pour les recruter.]]></entry>
     <entry id="" />
-    <entry id="str_help_town_blacksmith_0" />
-    <entry id="str_help_town_blacksmith_1" />
-    <entry id="str_help_town_blacksmith_2" />
+    <entry id="str_help_town_blacksmith_0"><![CDATA[[CLIQUEZ] sur le symbole [+] pour voir les options d'Amélioration pour ce bâtiment.]]></entry>
+    <entry id="str_help_town_blacksmith_1"><![CDATA[[GLISSER] un héros de votre garnison vers le Forgeron pour voir les options d'Améliorations de leurs armes et armures.]]></entry>
+    <entry id="str_help_town_blacksmith_2"><![CDATA[[CLIQUEZ] sur les améliorations pour les acheter. Vous devrez peut-être améliorer la Forge avant de pouvoir acheter quelques améliorations pour le héros.]]></entry>
     <entry id="" />
-    <entry id="str_help_town_guild_0" />
-    <entry id="str_help_town_guild_1" />
-    <entry id="str_help_town_guild_2" />
+    <entry id="str_help_town_guild_0"><![CDATA[[CLIQUEZ] sur le symbole [+] pour voir les options d'Amélioration pour ce bâtiment.]]></entry>
+    <entry id="str_help_town_guild_1"><![CDATA[[GLISSER] un héros de votre garnison vers la Guilde pour voir les options d'Améliorations des Compétences.]]></entry>
+    <entry id="str_help_town_guild_2"><![CDATA[[CLIQUEZ] sur les améliorations des Compétences pour les acheter. Vous devrez peut-être améliorer la Guilde avant de pouvoir acheter quelques améliorations pour le héros.]]></entry>
     <entry id="" />
-    <entry id="str_help_town_camping_trainer_0" />
-    <entry id="str_help_town_camping_trainer_1" />
-    <entry id="str_help_town_camping_trainer_2" />
-    <entry id="" />
-    <entry id="" />
-    <entry id="str_help_town_tavern_0" />
-    <entry id="str_help_town_tavern_1" />
-    <entry id="str_help_town_tavern_2" />
-    <entry id="str_help_town_tavern_3" />
-    <entry id="str_help_town_tavern_4" />
-    <entry id="str_help_town_tavern_5" />
-    <entry id="str_help_town_tavern_6" />
-    <entry id="" />
-    <entry id="str_help_town_abbey_0" />
-    <entry id="str_help_town_abbey_1" />
-    <entry id="str_help_town_abbey_2" />
-    <entry id="str_help_town_abbey_3" />
-    <entry id="str_help_town_abbey_4" />
-    <entry id="str_help_town_abbey_5" />
-    <entry id="str_help_town_abbey_6" />
-    <entry id="" />
-    <entry id="str_help_town_sanitarium_0" />
-    <entry id="str_help_town_sanitarium_1" />
-    <entry id="str_help_town_sanitarium_2" />
-    <entry id="str_help_town_sanitarium_3" />
-    <entry id="str_help_town_sanitarium_4" />
-    <entry id="" />
-    <entry id="str_help_town_nomad_wagon_0" />
-    <entry id="str_help_town_nomad_wagon_1" />
-    <entry id="" />
-    <entry id="str_help_town_quest_select_0" />
-    <entry id="str_help_town_quest_select_1" />
-    <entry id="str_help_town_quest_select_2" />
-    <entry id="str_help_town_quest_select_3" />
-    <entry id="str_help_town_quest_select_4" />
-    <entry id="" />
-    <entry id="str_help_town_provision_0" />
-    <entry id="str_help_town_provision_1" />
-    <entry id="str_help_town_provision_2" />
+    <entry id="str_help_town_camping_trainer_0"><![CDATA[[CLIQUEZ] sur le symbole [+] pour voir les options d'Amélioration pour ce bâtiment.]]></entry>
+    <entry id="str_help_town_camping_trainer_1"><![CDATA[[CLIQUEZ] sur un héros dans votre garnison pour le faire rentrer chez le Survivaliste et et voir les options d'Amélioration des compétences de campement.]]></entry>
+    <entry id="str_help_town_camping_trainer_2"><![CDATA[[CLIQUEZ] sur les compétences ou les Améliorations pour les acheter. Vous devrez peut-être améliorer le Survivaliste avant de pouvoir acheter quelques améliorations pour le héros.]]></entry>
     <entry id="" />
     <entry id="" />
-    <entry id="str_help_raid_room_0" />
-    <entry id="str_help_raid_room_1" />
-    <entry id="str_help_raid_room_2" />
-    <entry id="str_help_raid_room_3" />
-    <entry id="str_help_raid_room_4" />
-    <entry id="str_help_raid_room_5" />
-    <entry id="str_help_raid_room_6" />
-    <entry id="str_help_raid_room_7" />
-    <entry id="str_help_raid_room_8" />
+    <entry id="str_help_town_tavern_0"><![CDATA[[CLIQUEZ] sur le symbole [+] pour voir les options d'Amélioration pour ce bâtiment.]]></entry>
+    <entry id="str_help_town_tavern_1"><![CDATA[[GLISSER] un héros dans l'emplacement approprié pour démarrer une activité anti-stress]]></entry>
+    <entry id="str_help_town_tavern_2"><![CDATA[Certaines spécificités empêcheront le héros de participer à cette activité.]]></entry>
+    <entry id="str_help_town_tavern_3"><![CDATA[Chaque activité a un prix et un niveau de stress retiré différent, et de possibles effets secondaires. Vous les découvrirez tout au long de vos parties.]]></entry>
+    <entry id="str_help_town_tavern_4"><![CDATA[L'engagement d'un héros à une activité le rendra indisponible jusqu'à la prochaine quête.]]></entry>
+    <entry id="str_help_town_tavern_5"><![CDATA[Vous devrez améliorer le bâtiment pour déverrouiller des emplacements supplémentaires d'activité.]]></entry>
+    <entry id="str_help_town_tavern_6"><![CDATA[[SHIFT-CLIC]] sur un emplacement du bâtiment pour retirer prématurément votre héros d'une activité en cours. Vous ne serez pas remboursé.]]></entry>
     <entry id="" />
-    <entry id="str_help_raid_hallway_0" />
-    <entry id="str_help_raid_hallway_1" />
-    <entry id="str_help_raid_hallway_2" />
-    <entry id="str_help_raid_hallway_3" />
-    <entry id="str_help_raid_hallway_4" />
-    <entry id="str_help_raid_hallway_5" />
-    <entry id="str_help_raid_hallway_6" />
-    <entry id="str_help_raid_hallway_7" />
-    <entry id="str_help_raid_hallway_8" />
+    <entry id="str_help_town_abbey_0"><![CDATA[[CLIQUEZ] sur le symbole [+] pour voir les options d'Amélioration pour ce bâtiment.]]></entry>
+    <entry id="str_help_town_abbey_1"><![CDATA[[GLISSER] un héros dans l'emplacement approprié pour démarrer une activité anti-stress.]]></entry>
+    <entry id="str_help_town_abbey_2"><![CDATA[Certaines spécificités empêcheront le héros de participer à cette activité.]]></entry>
+    <entry id="str_help_town_abbey_3"><![CDATA[Chaque activité a un prix et un niveau de stress retiré différent, et de possibles effets secondaires. Vous les découvrirez tout au long de vos parties.]]></entry>
+    <entry id="str_help_town_abbey_4"><![CDATA[L'engagement d'un héros à une activité le rendra indisponible jusqu'à la prochaine quête.]]></entry>
+    <entry id="str_help_town_abbey_5"><![CDATA[Vous devrez améliorer le bâtiment pour déverrouiller des emplacements supplémentaires d'activité.]]></entry>
+    <entry id="str_help_town_abbey_6"><![CDATA[[SHIFT-CLIC] sur un emplacement du bâtiment pour retirer prématurément votre héros d'une activité en cours. Vous ne serez pas remboursé.]]></entry>
+    <entry id="" />
+    <entry id="str_help_town_sanitarium_0"><![CDATA[[CLIQUEZ] sur le symbole [+] pour voir les options d'Amélioration pour ce bâtiment.]]></entry>
+    <entry id="str_help_town_sanitarium_1"><![CDATA[[GLISSER] un héros dans l'emplacement de traitement, sélectionner une spécificité à supprimer, puis payer pour commencer le traitement.]]></entry>
+    <entry id="str_help_town_sanitarium_2"><![CDATA[L'engagement d'un héros à un traitement le rendra indisponible jusqu'à la prochaine quête.]]></entry>
+    <entry id="str_help_town_sanitarium_3"><![CDATA[Vous devrez améliorer le bâtiment pour déverrouiller des emplacements supplémentaires de traitement.]]></entry>
+    <entry id="str_help_town_sanitarium_4"><![CDATA[[SHIFT-CLIC] sur un emplacement du bâtiment pour retirer prématurément votre héros d'une activité en cours. Vous ne serez pas remboursé.]]></entry>
+    <entry id="" />
+    <entry id="str_help_town_nomad_wagon_0"><![CDATA[[CLIQUEZ] sur le symbole [+] pour voir les options d'Amélioration pour ce bâtiment.]]></entry>
+    <entry id="str_help_town_nomad_wagon_1"><![CDATA[[CLIQUEZ] sur les objets disponibles pour les acheter.]]></entry>
+    <entry id="" />
+    <entry id="str_help_town_quest_select_0"><![CDATA[[CLIQUEZ] Sur les quêtes disponibles pour les inspecter.]]></entry>
+    <entry id="str_help_town_quest_select_1"><![CDATA[[CLIQUEZ] sur les héros ou [GLISSER] les dans les emplacement de groupe pour former un groupe d'aventuriers.]]></entry>
+    <entry id="str_help_town_quest_select_2"><![CDATA[Les héros qui sont dans la taverne, l'abbaye, ou le sanatorium seront indisponibles.]]></entry>
+    <entry id="str_help_town_quest_select_3"><![CDATA[Accomplissez des quêtes dans les régions pour faire progresser votre maîtrise dans cette région afin de découvrir de nouveaux types de quêtes.]]></entry>
+    <entry id="str_help_town_quest_select_4"><![CDATA[[CLIQUEZ] sur "PROVISIONS" pour continuer.]]></entry>
+    <entry id="" />
+    <entry id="str_help_town_provision_0"><![CDATA[[CLIQUEZ] sur les objets dans la boutique pour les acheter pour votre expédition.]]></entry>
+    <entry id="str_help_town_provision_1"><![CDATA[À la fin de la quête, les provisions inutilisées seront perdues et non remboursées. Acheter seulement ce dont vous avez besoin!]]></entry>
+    <entry id="str_help_town_provision_2"><![CDATA[Assurez-vous d'apporter des torches et de la nourriture! Chaque héros consomme généralement 1 ration par repas (campement ou événements).]]></entry>
+    <entry id="" />
+    <entry id="" />
+    <entry id="str_help_raid_room_0"><![CDATA[[CLIQUEZ] sur une salle de la carte pour vous déplacer vers cette salle.]]></entry>
+    <entry id="str_help_raid_room_1"><![CDATA[[CLIQUEZ] sur un héros pour le sélectionner.]]></entry>
+    <entry id="str_help_raid_room_2"><![CDATA[[CLIQUEZ] sur la compétence de mouvement d'un héros pour changer sa position.]]></entry>
+    <entry id="str_help_raid_room_3"><![CDATA[[CLIQUEZ] sur le bois dans l'inventaire (si vous en avez) pour commencer à CAMPER.]]></entry>
+    <entry id="str_help_raid_room_4"><![CDATA[[SURVOLER] la torche pour voir le niveau lumineux actuel et ses effets.]]></entry>
+    <entry id="str_help_raid_room_5"><![CDATA[[CLIQUEZ] sur le drapeau pour battre en retraite ou abandonner la quête.]]></entry>
+    <entry id="str_help_raid_room_6"><![CDATA[Pour interagir avec un objet: [CLIC-DROIT] sur un objet de l'inventaire pour l'appliquer à l'objet en question. Certains objets produiront des effets positifs.]]></entry>
+    <entry id="str_help_raid_room_7"><![CDATA[Utiliser la [MOLETTE DE SOURIS] pour zoomer sur la carte et [CLIC-DROIT] et [GLISSER] pour bouger la carte.]]></entry>
+    <entry id="str_help_raid_room_8"><![CDATA[[CLIC-DROIT] sur un héros pour voir la fiche détaillée du personnage.]]></entry>
+    <entry id="" />
+    <entry id="str_help_raid_hallway_0"><![CDATA[Appuyez sur [D] pour avancer, [A] pour reculer.]]></entry>
+    <entry id="str_help_raid_hallway_1"><![CDATA[[CLIQUEZ] sur la compétence de mouvement d'un héros pour changer sa position.]]></entry>
+    <entry id="str_help_raid_hallway_2"><![CDATA[Passer une Porte: Devant la porte, [CLIQUEZ] sur elle ou appuyez sur [W].]]></entry>
+    <entry id="str_help_raid_hallway_3"><![CDATA[Utiliser la [MOLETTE DE SOURIS] pour zoomer sur la carte et [CLIC-DROIT] et [GLISSER] pour bouger la carte.]]></entry>
+    <entry id="str_help_raid_hallway_4"><![CDATA[[CLIQUEZ] sur des objets ou appuyez sur [W] pour interagir avec eux. Le héros sélectionné effectuer l'interaction.]]></entry>
+    <entry id="str_help_raid_hallway_5"><![CDATA[[CLIC-DROIT] sur un héros pour voir la fiche détaillée du personnage.]]></entry>
+    <entry id="str_help_raid_hallway_6"><![CDATA[[CLIQUEZ] sur l'onglet Inventaire pour examiner les provisions.]]></entry>
+    <entry id="str_help_raid_hallway_7"><![CDATA[[CLIQUEZ] sur l'onglet PERSONNALITÉ pour voir les spécificités et les afflictions du héros actuel.]]></entry>
+    <entry id="str_help_raid_hallway_8"><![CDATA[[CLIQUEZ] sur le drapeau pour battre en retraite ou abandonner la quête.]]></entry>
     <entry id="" />
     <entry id="" />
     <entry id="" />
     <entry id="" />
-    <entry id="str_help_raid_combat_0" />
-    <entry id="str_help_raid_combat_1" />
-    <entry id="str_help_raid_combat_2" />
-    <entry id="str_help_raid_combat_3" />
-    <entry id="str_help_raid_combat_4" />
-    <entry id="str_help_raid_combat_5" />
+    <entry id="str_help_raid_combat_0"><![CDATA[Durant le tour d'un héros, [CLIQUEZ] sur une compétence de combat valide puis [CLIQUEZ] sur une cible pour réaliser l'action. Vous pouvez aussi utiliser les touches [# keys] 1-5 pour choisir rapidement vos compétences.]]></entry>
+    <entry id="str_help_raid_combat_1"><![CDATA[Chaque aptitude a des prérequis différents selon la place du héros et l'ennemi qu'il peut cibler. [SURVOLER] sur l'aptitude désirée pour en voir les prérequis]]></entry>
+    <entry id="str_help_raid_combat_2"><![CDATA[[SURVOLER] sur les ennemis pour voir leur statistiques et les chances de toucher, les dégâts et les chances de coups critiques avec l'aptitude sélectionnée.]]></entry>
+    <entry id="str_help_raid_combat_3"><![CDATA[[CLIC-DROIT] sur un Anti-venin ou un Bandage dans votre inventaire pour soigner l'EMPOISONNEMENT ou le SAIGNEMENT sur le héros sélectionné.]]></entry>
+    <entry id="str_help_raid_combat_4"><![CDATA[[CLIQUEZ] sur le drapeau pour effectuer une tentative de retraite.]]></entry>
+    <entry id="str_help_raid_combat_5"><![CDATA[[CLIC-DROIT] sur un héros pour voir sa fiche de personnage détaillée.]]></entry>
     <entry id="" />
-    <entry id="str_help_raid_camping_0" />
-    <entry id="str_help_raid_camping_1" />
-    <entry id="str_help_raid_camping_2" />
-    <entry id="str_help_raid_camping_3" />
+    <entry id="str_help_raid_camping_0"><![CDATA[[CLIQUEZ] sur les options de nourriture pour choisir combien de ration consommer. Vous êtes limités par le nombre de nourriture dans votre inventaire.]]></entry>
+    <entry id="str_help_raid_camping_1"><![CDATA[Votre groupe a [10 POINTS D'ACTION] à utiliser pour leurs aptitudes de campement.]]></entry>
+    <entry id="str_help_raid_camping_2"><![CDATA[[CLIQUEZ] sur un héros puis [CLIQUEZ] sur leurs aptitudes pour les utiliser. Certaines aptitudes doivent avoir une cible pour être lancées.]]></entry>
+    <entry id="str_help_raid_camping_3"><![CDATA[Quand vous avez terminé d'utiliser des POINTS D'ACTION, [CLIQUEZ] sur "SE REPOSER" pour terminer le campement.]]></entry>
     <entry id="" />
     <entry id="" />
     <entry id="" />
@@ -417,32 +463,32 @@ Pour upgrader, cliquez sur le symbole [+] sur la gauche, et cliquer sur l'amelio
     <entry id="" />
     <entry id="" />
     <entry id="LOADING SCREEN TIPS" />
-    <entry id="str_crypts_tip" />
-    <entry id="str_crypts_tip" />
-    <entry id="str_crypts_tip" />
-    <entry id="str_crypts_tip" />
-    <entry id="str_crypts_tip" />
-    <entry id="str_crypts_tip" />
-    <entry id="str_crypts_tip" />
+    <entry id="str_crypts_tip"><![CDATA[Les Ruines portent la trace des fouilles frénétiques de votre Ancêtre...]]></entry>
+    <entry id="str_crypts_tip"><![CDATA[Les idoles et les autels d'antan ont été corrumpus au profit de dieux païens. L'eau bénite peut aider à leur rendre leur vrai aspect.]]></entry>
+    <entry id="str_crypts_tip"><![CDATA[Les morts-vivants ne saignent pas, mais ils peuvent être empoisonnés.]]></entry>
+    <entry id="str_crypts_tip"><![CDATA[Si vous aimez le risque et l'obscurité, n'apportez que quelques torches...]]></entry>
+    <entry id="str_crypts_tip"><![CDATA[Chaque région a ses propres défis. Tenez-en compte en formant votre équipe et en achetant vos provisions.]]></entry>
+    <entry id="str_crypts_tip"><![CDATA[Une provision bien utilisée peut souvent vous protéger des dangers des objets intéractifs que vous rencontrez.]]></entry>
+    <entry id="str_crypts_tip"><![CDATA[Vous pouvez battre en retraite pendant un combat et même abandonner une quête. Si les choses vont mal, vivez pour combattre un jour de plus.]]></entry>
     <entry id="" />
     <entry id="" />
-    <entry id="str_weald_tip" />
-    <entry id="str_weald_tip" />
-    <entry id="str_weald_tip" />
-    <entry id="str_weald_tip" />
-    <entry id="str_weald_tip" />
-    <entry id="str_weald_tip" />
-    <entry id="str_weald_tip" />
-    <entry id="str_weald_tip" />
+    <entry id="str_weald_tip"><![CDATA[Le bosquet est plein de sentiers, larges et interminables. Apportez beaucoup de torches.]]></entry>
+    <entry id="str_weald_tip"><![CDATA[Prenez garde à la Marque de Mort posée par les Artilleurs Fungus. Cela indique aux Fungus Zombies quoi attaquer et tuer.]]></entry>
+    <entry id="str_weald_tip"><![CDATA[Les sentiers sont jonchés de pièges empoisonnés.]]></entry>
+    <entry id="str_weald_tip"><![CDATA[Des bêtes et des humains corrompus peuplent ces petits bois.]]></entry>
+    <entry id="str_weald_tip"><![CDATA[Si vous aimez le risque et l'obscurité, n'apportez que quelques torches...]]></entry>
+    <entry id="str_weald_tip"><![CDATA[Chaque région a ses propres défis. Tenez-en compte en formant votre équipe et en achetant vos provisions.]]></entry>
+    <entry id="str_weald_tip"><![CDATA[Une provision bien utilisée peut souvent vous protéger des dangers des objets intéractifs que vous rencontrez.]]></entry>
+    <entry id="str_weald_tip"><![CDATA[Vous pouvez battre en retraite pendant un combat et même abandonner une quête. Si les choses vont mal, vivez pour combattre un jour de plus.]]></entry>
     <entry id="" />
     <entry id="" />
-    <entry id="str_warrens_tip" />
-    <entry id="str_warrens_tip" />
-    <entry id="str_warrens_tip" />
-    <entry id="str_warrens_tip" />
-    <entry id="str_warrens_tip" />
-    <entry id="str_warrens_tip" />
-    <entry id="str_warrens_tip" />
+    <entry id="str_warrens_tip"><![CDATA[Les Dédales grouillent de maladies et de poisons en tout genres... soyez prêt à gérer toutes sortes de maladies.]]></entry>
+    <entry id="str_warrens_tip"><![CDATA[Les Pourceaux résistent aux maladies, ils sont habitués à la saleté.]]></entry>
+    <entry id="str_warrens_tip"><![CDATA[Ces tunnels sont souvent bloqués par des amas de pierres et de cadavres. C'est un sale boulot de les retirer à mains nues.]]></entry>
+    <entry id="str_warrens_tip"><![CDATA[Si vous aimez le risque et l'obscurité, n'apportez que quelques torches...]]></entry>
+    <entry id="str_warrens_tip"><![CDATA[Chaque région a ses propres défis. Tenez-en compte en formant votre équipe et en achetant vos provisions.]]></entry>
+    <entry id="str_warrens_tip"><![CDATA[Une provision bien utilisée peut souvent vous protéger des dangers des objets intéractifs que vous rencontrez.]]></entry>
+    <entry id="str_warrens_tip"><![CDATA[Vous pouvez battre en retraite pendant un combat et même abandonner une quête. Si les choses vont mal, vivez pour combattre un jour de plus.]]></entry>
   </language>
   <language id="italian">
     <entry id="POPUP TUTORIAL HELPS" />
