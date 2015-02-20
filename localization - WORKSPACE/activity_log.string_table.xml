@@ -418,7 +418,7 @@
     <entry id="MORE" />
   </language>
   <language id="french">
-   <entry id="" />
+    <entry id="" />
     <entry id="" />
     <entry id="" />
     <entry id="ACTIVITY LOG" />
@@ -497,7 +497,7 @@
     <entry id="str_returned_from_inventory_activate_weald_failure"><![CDATA[n'ont pas put trouver et purifier les corps en putrefaction dans le Bosquet.]]></entry>
     <entry id="str_returned_from_inventory_activate_warrens_failure"><![CDATA[n'ont pas put demolir les Autels Porcins dans le Dédale.]]></entry>
     <entry id="" />
-    <entry id="" />	
+    <entry id="" />
     <entry id="str_upper_the_[BUILDING]"><![CDATA[Le]]></entry>
     <entry id="str_building_upgraded_to_percent"><![CDATA[améliore jusqu'a]]></entry>
     <entry id="str_[UPGRADE_TYPE]_upgrade_lvl_[UPGRADE_LEVEL]" />
@@ -543,7 +543,7 @@
     <entry id="" />
     <entry id="" />
     <entry id="str_[activity]_stress_relief_story" />
-    <entry id="str_bar_stress_relief_story"><![CDATA[ a eu une nuit en ville et a recuperé]]></entry>
+    <entry id="str_bar_stress_relief_story"><![CDATA[a eu une nuit en ville et a recuperé]]></entry>
     <entry id="str_gambling_stress_relief_story"><![CDATA[a joué et a recuperé]]></entry>
     <entry id="str_brothel_stress_relief_story"><![CDATA[s'est engagé dans les plaisirs de la chair et a recuperé]]></entry>
     <entry id="str_meditation_stress_relief_story"><![CDATA[a medité et a recuperé]]></entry>
@@ -554,7 +554,7 @@
     <entry id="str_[activity]_go_missing_story"><![CDATA[- [hero name][str_meditation_go_missing_story]]]></entry>
     <entry id="str_bar_go_missing_story"><![CDATA[a pris une enorme cuite et n'a pas ete revu depuis le soir precedent.]]></entry>
     <entry id="str_gambling_go_missing_story"><![CDATA[s'est isole dans une partie de des prives et a disparu depuis.]]></entry>
-    <entry id="str_brothel_go_missing_story"><![CDATA[ debauche a atteint de nouveaux sommets - Disparu du bataillon.]]></entry>
+    <entry id="str_brothel_go_missing_story"><![CDATA[debauche a atteint de nouveaux sommets - Disparu du bataillon.]]></entry>
     <entry id="str_meditation_go_missing_story"><![CDATA[est parti dans une quete de vision personnelle pour atteindre l'illumination.]]></entry>
     <entry id="str_prayer_go_missing_story"><![CDATA[est parti a la recherche d'une vision divine..]]></entry>
     <entry id="str_flagellation_go_missing_story"><![CDATA[est parti dans une quete personnelle faite de sang et de sueur.]]></entry>
@@ -590,7 +590,7 @@
     <entry id="" />
     <entry id="str_[activity]_add_buff_[buff_name]_story"><![CDATA[- [hero name][str_meditation_add_buff_buff_story]]></entry>
     <entry id="str_bar_add_buff_townHungoverAccDebuff_story_pre"><![CDATA[experimente]]></entry>
-    <entry id="str_bar_add_buff_townHungoverAccDebuff_story_desc"><![CDATA[double vision]]></entry>
+    <entry id="str_bar_add_buff_townHungoverAccDebuff_story_desc"><![CDATA[vision double]]></entry>
     <entry id="str_bar_add_buff_townHungoverAccDebuff_story_post"><![CDATA[apres une longue nuit a boire.]]></entry>
     <entry id="str_bar_add_buff_townHungoverDEFDebuff_story_pre"><![CDATA[se deplace]]></entry>
     <entry id="str_bar_add_buff_townHungoverDEFDebuff_story_desc"><![CDATA[lentement]]></entry>
@@ -818,7 +818,7 @@
     <entry id="str_death_trap_trap"><![CDATA[a ete embroché par un piege.]]></entry>
     <entry id="str_death_obstacle_obstacle"><![CDATA[est mort en essayant de degager le passage.]]></entry>
     <entry id="str_death_attack_monster"><![CDATA[a ete tué par un monstre]]></entry>
-    <entry id="str_death_attack_monster"><![CDATA[a rencontré sa fin face à ]]></entry>
+    <entry id="str_death_attack_monster"><![CDATA[a rencontré sa fin face à]]></entry>
     <entry id="str_death_bleed_monster"><![CDATA[a saigné à la mort.]]></entry>
     <entry id="str_death_poisoned_monster"><![CDATA[a succombe au Poison.]]></entry>
     <entry id="str_death_attack_friendly"><![CDATA[est mort de la main d'un allié.]]></entry>
@@ -2086,4 +2086,3 @@
     <entry id="MORE" />
   </language>
 </root>
-

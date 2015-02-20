@@ -47,7 +47,7 @@
     <entry id="" />
     <entry id="menu_controls_category_0"><![CDATA[GENERAL]]></entry>
     <entry id="menu_controls_element_0_0"><![CDATA[H - Aides contextuelle pour tous les écrans]]></entry>
-    <entry id="menu_controls_category_1"><![CDATA[Raid]]></entry>
+    <entry id="menu_controls_category_1" />
     <entry id="menu_controls_element_1_0"><![CDATA[A - Déplacer à Droite]]></entry>
     <entry id="menu_controls_element_1_1"><![CDATA[D - Déplacer à Gauche]]></entry>
     <entry id="menu_controls_category_2"><![CDATA[Ville]]></entry>
@@ -165,4 +165,3 @@
     <entry id="menu_base_element_exit_game" />
   </language>
 </root>
-

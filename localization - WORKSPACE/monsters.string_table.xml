@@ -271,7 +271,7 @@
     <entry id="str_monster_skill_club_smack"><![CDATA[Frappe de Branche]]></entry>
     <entry id="str_monster_skill_confusion_spores"><![CDATA[Spores déroutantes]]></entry>
     <entry id="str_monster_skill_poison_spores"><![CDATA[Spores empoisonnées]]></entry>
-    <entry id="str_monster_skill_slime"><![CDATA[Slime]]></entry>
+    <entry id="str_monster_skill_slime" />
     <entry id="str_monster_skill_summon_slime"><![CDATA[Cytocinese]]></entry>
     <entry id="str_monster_skill_summon_big_slime"><![CDATA[Profusion Ectoplasmique]]></entry>
     <entry id="str_monster_skill_slime_lg"><![CDATA[Gros Slime]]></entry>
@@ -351,7 +351,7 @@
     <entry id="str_monstername_brigand_cutthroat_A"><![CDATA[Coupeur de Gorges Brigand]]></entry>
     <entry id="str_monstername_brigand_cutthroat_B"><![CDATA[Coupeur de Gorges Hors la Loi]]></entry>
     <entry id="str_monstername_brigand_cutthroat_C"><![CDATA[Coupeur de Gorge Infame]]></entry>
-    <entry id="str_monstername_brigand_fusilier_A"><![CDATA[Brigand Fusilier]]></entry>
+    <entry id="str_monstername_brigand_fusilier_A" />
     <entry id="str_monstername_brigand_fusilier_B"><![CDATA[Fusilier Hors la Loi]]></entry>
     <entry id="str_monstername_brigand_fusilier_C"><![CDATA[Fusilier Infame]]></entry>
     <entry id="str_monstername_brigand_blood_A"><![CDATA[Brigand Saigneur]]></entry>
@@ -1221,4 +1221,3 @@
     <entry id="DARKEST DUNGEON" />
   </language>
 </root>
-
